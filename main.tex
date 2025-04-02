@@ -1,0 +1,90 @@
+\documentclass[11pt]{book}
+\usepackage{amsmath,amssymb,amsfonts}
+\usepackage{iiit_thesis}
+\usepackage{times}
+\usepackage{graphicx}
+\usepackage{setspace}
+\usepackage{enumitem}
+\usepackage{tabularx}
+\usepackage{subfigure}
+\usepackage{notoccite}
+\usepackage{afterpage}
+\usepackage{xcolor}
+\usepackage{algorithm}
+\usepackage{algpseudocode}
+\usepackage{multirow}
+\usepackage[hidelinks]{hyperref} 
+\usepackage[toc,page]{appendix}
+\usepackage{comment}
+\usepackage{pdfpages}
+\usepackage{siunitx}
+\usepackage{csquotes}
+\usepackage[backend=biber,style=apa,natbib=true]{biblatex} % Use biblatex for APA style
+\usepackage{booktabs}
+
+\graphicspath{{images/}{./}} % To include images in other directories
+\addbibresource{cite.bib} % Use addbibresource instead of \bibliography
+
+%------------------------------------------------
+% To reduce separation in itemize and enumerate
+% \setlist[itemize]{noitemsep} % can include 'nolistsep' also
+% \setlist[enumerate]{noitemsep}
+
+%------------------------------------------------
+% Settings for Abbreviations and Symbols list
+\usepackage[style=super,automake,nogroupskip,nopostdot,symbols,sort=standard,toc=false]{glossaries-extra}
+\setglossarystyle{super}
+\setabbreviationstyle[acronym]{long-short}
+  % \centering
+  \renewenvironment{theglossary}%
+    {\tablehead{}\tabletail{}%
+     \begin{supertabular}{p{4cm}p{\glsdescwidth}}}%
+    {\end{supertabular}}%
+\makeglossaries
+\loadglsentries{acronyms}
+
+%-------------------------------------------------
+\long\def\symbolfootnote[#1]#2{\begingroup%
+\def\thefootnote{\fnsymbol{footnote}}\footnote[#1]{#2}\endgroup}
+\renewcommand{\baselinestretch}{1.2}
+\onecolumn
+
+%-------------------------------------------------
+% Custom commands
+\newcommand{\p}{\mathbb{P}}
+\newcommand{\gt}{\gamma_{\text{th}}}
+\newcommand\txtblue[1]{{\color{blue}#1}}
+
+\begin{document}
+\pagenumbering{roman}
+\mastersthesis
+
+%--------------------------------------------------------
+\chapter{Introduction}
+\label{ch:intro}
+% \input{sections/ch0.tex}
+%--------------------------------------------------------
+\chapter{Literature Review}
+\label{ch:lit_review}
+\input{sections/lit_review}
+
+%--------------------------------------------------------
+\chapter{Title of the chapter goes here...}
+\label{ch:ch1}
+\input{sections/ch1.tex}
+
+%--------------------------------------------------------
+\chapter{Title of the chapter goes here...}
+\label{ch:ch2}
+\input{sections/ch2.tex}
+
+%--------------------------------------------------------
+\chapter{Conclusion}
+\label{ch:conc}
+% \input{sections/conclusion.tex}
+
+%--------------------------------------------------------
+
+\printbibliography % Use printbibliography instead of \bibliography
+
+\end{document}
