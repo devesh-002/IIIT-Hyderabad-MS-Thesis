@@ -1,5 +1,5 @@
 \section{Introduction}
-In the previous chapter we saw theories of how mountain differ from plains structurally. In this chapter we will study the Duvergers law in the Indian context and analyse its implications on the mountain and plain polities.  We will look at the dataset, methodology and trends along with a brief explanation of the trends. This chapter aims to uncover whether the political structures of India's mountain states differ systematically from those of the Indo-Gangetic plains, and how these differences manifest within the electoral process.  We complement the analysis of Duverger's law with a high level social study using parameters from the National Family Health Survey (NFHS). We will explore why the parameters were chosen and what they show to us and then compare results for mountains and plains. This will give us a c
+In the previous chapter we saw theories of how mountain differ from plains structurally. In this chapter we will study the Duvergers law in the Indian context and analyse its implications on the mountain and plain polities.  We will look at the dataset, methodology and trends along with a brief explanation of the trends. This chapter aims to uncover whether the political structures of India's mountain states differ systematically from those of the Indo-Gangetic plains, and how these differences manifest within the electoral process.  We complement the analysis of Duverger's law with a high level social study using parameters from the National Family Health Survey (NFHS). We will explore why the parameters were chosen and what they show to us and then compare results for mountains and plains. This will give us a comprehensive view of the situation.
 \section{Duvergers Law}
 Maurice Duverger, a prominent French political scientist introduced a principle in the mid-20th century that has since become foundational in the study of electoral systems. Duverger's law states that electoral systems that follow a single-member plurality system (SMPS) such as India where the winner takes all tend to result in the dominance of two major political parties. Popular examples for this are the USA and UK elections, where this has been observed. However, this is not a firm law as it does not hold in India and Canada.
 Two primary mechanisms have been identified through which electoral systems influence party structures in relation to Duvergers law:
@@ -122,7 +122,7 @@ Std. Dev. & 0.82 & 0.83 \\
 \label{tab:basic_stats}
 \end{table}
 
-To test for significant differences between the values of mountains and plains, we divide the constituencies into two buckets. One bucket contains the constituencies of plains and the other has the mountains. Since the number of constituencies is almost in the ratio 1:12, we have imbalanced data. To account for imbalanced data Mann-Whitney U test is suitable for analysis as it is nonparametric and remains robust even with unequal sample sizes. This test compares the entire distribution between groups rather than just central tendencies, making it an appropriate choice for determining if there are significant differences between the two regions. We set the significant value $\alpha$ to be $0.05$ and the results are in Table \ref{tab:stats_tests}. Cohen's d is used to measure the effect size, quantifying the magnitude of the difference between two means. Both these tests particularly valuable for imbalanced datasets as they are independent of sample size. In Figure \ref{img:histogram}, it is interesting to note that the density around the value two is much higher than in the case of mountains. Moreover, the plains have a much longer tail than the mountains indicating a more flattened distribution and a distribution with more districts (percentage wise) which have effective parties greater than three. 
+To test for significant differences between the values of mountains and plains, we divide the constituencies into two buckets. One bucket contains the constituencies of plains and the other has the mountains. Since the number of constituencies is almost in the ratio 1:12, we have imbalanced data. To account for imbalanced data Mann-Whitney U test also known as  Wilcoxon rank sum test is suitable for analysis as it is nonparametric and remains robust even with unequal sample sizes. The Mann-Whitney U test does not assume a normal distribution which makes it  useful with ordinal data. The test works by ranking all data points from both groups together and then calculating a U statistic based on the sum of ranks for each group. This test is less powerful than the parametric test but for our given situation this is the best possible option. We set the significant value $\alpha$ to be $0.05$ and the results are in Table \ref{tab:stats_tests}. Cohen's d is used to measure the effect size, quantifying the magnitude of the difference between two means. Both these tests particularly valuable for imbalanced datasets as they are independent of sample size. In Figure \ref{img:histogram}, it is interesting to note that the density around the value two is much higher than in the case of mountains. Moreover, the plains have a much longer tail than the mountains indicating a more flattened distribution and a distribution with more districts (percentage wise) which have effective parties greater than three. 
 
 \begin{table}[h]
 \centering
@@ -279,7 +279,43 @@ States & 0.785 \\
 \subsubsection{Assembly Elections}
 For assembly elections we do a similar analysis and calculate the same statistics. The histogram shows a higher number of density around the ENP value 2 for mountains than plains. This means that mountains on an overall level have a higher number of constituencies with ENP values 2. Apart from this we also observe the overall average for mountains is lesser than mountains. This points to our hypothesis that there is some difference between the mountain and states. We use the Mann-Whitney U test to confirm and find much stronger statistical difference than the lok sabha elections. This can be due to the higher number of constituencies analysed in assembly elections with a bigger difference. However, to test our hypothesis we need to check for convergence or divergence over time in both the plains and mountains. 
 
-// write about frequency distribution
+\begin{table}[h]
+    \centering
+    \begin{tabular}{|c|c|c|c|c|}
+    \hline
+    Election Year & $\leq$ 2.0 & 2 to 2.5 & 2.5 to 3 & $\geq$ 3 \\ \hline
+    1975 & 17.82\% & 17.53\% & 29.31\% & 35.34\% \\ \hline
+    1980 & 13.22\% & 17.07\% & 20.43\% & 49.28\% \\ \hline
+    1985 & 19.04\% & 26.26\% & 21.44\% & 33.26\% \\ \hline
+    1990 & 29.60\% & 25.37\% & 18.82\% & 26.22\% \\ \hline
+    1995 & 21.41\% & 27.23\% & 24.95\% & 26.40\% \\ \hline
+    2000 & 11.85\% & 28.11\% & 16.63\% & 43.40\% \\ \hline
+    2005 & 16.84\% & 28.77\% & 18.07\% & 36.32\% \\ \hline
+    2010 & 16.78\% & 33.70\% & 18.98\% & 30.54\% \\ \hline
+    \end{tabular}
+    \caption{Percentage Distribution of Effective Parties across districts in the Mountains}
+    \label{tab:assembly_mountain_percentage_district}
+    \end{table}
+
+    \begin{table}[h]
+        \centering
+        \begin{tabular}{|c|c|c|c|c|}
+        \hline
+        Election Year & $\leq$ 2.0 & 2 to 2.5 & 2.5 to 3 & $\geq$ 3 \\ \hline
+        1975 & 10.56\% & 29.77\% & 20.56\% & 39.11\% \\ \hline
+        1980 & 8.53\% & 30.70\% & 17.98\% & 42.78\% \\ \hline
+        1985 & 12.46\% & 37.08\% & 16.63\% & 33.83\% \\ \hline
+        1990 & 3.16\% & 22.07\% & 18.91\% & 55.85\% \\ \hline
+        1995 & 1.73\% & 26.55\% & 19.48\% & 52.25\% \\ \hline
+        2000 & 4.51\% & 30.99\% & 16.11\% & 48.39\% \\ \hline
+        2005 & 1.41\% & 25.94\% & 16.92\% & 55.72\% \\ \hline
+        2010 & 1.36\% & 27.29\% & 18.04\% & 53.31\% \\ \hline
+        \end{tabular}
+        \caption{Percentage Distribution of Effective Parties across districts in the Plains}
+        \label{tab:assembly_plains_percentage_district}
+        \end{table}
+        
+In table \ref{tab:assembly_mountain_percentage_district} and \ref{tab:assembly_plains_percentage_district} we find that in the initial years the ENP value for mountains is higher than plains but with time the values are slowly converging for mountains and vice versa for plains. The Plains consistently exhibit a higher concentration of districts with ENP values exceeding $3$, exceeding the hard threshold from 1990 and onwards.  The Mountains present a more balanced distribution as the percentages in $\leq$ $2$ and 2 \- 2.5 range is higher.  The Plains  register lower percentages in the $\leq$ $2$ and 2 \- 2.5 categories. The trends suggest that there is a convergence happening in mountains whereas the ENP values are diverging strongly in the plains. Hence, this calls for a more detailed further analysis.
 
  We observe that the ENP value is high in compared to the lok sabha elections but the trends are similar. Uttarakhand, Meghalaya show positive slopes but apart from them all of are showing \textbf{strong} decreasing trends. Similar to lok sabha elections, the ENP converges strongly after the formation of the state. This can be attributed due to the competition between many parties like UKD (Uttarakhand Akali Dal) which started the entire movement. Similar to \cite{fey2007duverger} model, we observe that the ideologies of all the parties converged in the state. Similar to UKD, Congress and BJP also started to advocate for a seperate state of Uttarkhand. This led to the fast convergence of the districts to ENP value below 3. Although converging, the values of ENP are higher than the lok sabha elections. The average value for ENP is above or close to 2.5 in a lot of states slightly violating the soft cutoff. Variability is high in states like Sikkim and Nagaland, showing frequent shifts in ENP, possibly due to regional or insurgency related factors. 
  
@@ -514,3 +550,5 @@ Bihar & 18 \\
 \caption{Consolidated Final Ranks of States}
 \label{tab:consolidated_ranks}
 \end{table}
+\section{Conclusion}
+The analysis in the chapter reveals how mountain and plain states behave differently. The Indo Gangetic plains exhibit a consistent divergence from the two party system in both lok and assembly level elections. The mountain states on the other hand converge strongly in both, however the value is higher than the softer threshold in assembly elections. Regardless, the converging nature suggests that there is a strong difference between the geographies. To examine the social indicators, we analyze various aspects of women's lives across both mountain and plain states. Mountain states generally rank higher in indicators related to women's empowerment, including literacy, breastfeeding practices, and reduced rates of child marriage. However contraceptive use is limited due to the remoteness. These indicators indicate higher maternal agency, better decision making for women, better health etc. In the next chapter we will evaluate the \textit{possible} reasons for the differences due to geography.
