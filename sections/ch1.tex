@@ -1,13 +1,8 @@
 \section{Introduction}
 In the previous chapter we saw theories of how mountain differ from plains structurally. In this chapter we will study the Duvergers law in the Indian context and analyse its implications on the mountain and plain polities.  We will look at the dataset, methodology and trends along with a brief explanation of the trends. This chapter aims to uncover whether the political structures of India's mountain states differ systematically from those of the Indo-Gangetic plains, and how these differences manifest within the electoral process.  We complement the analysis of Duverger's law with a high level social study using parameters from the National Family Health Survey (NFHS). We will explore why the parameters were chosen and what they show to us and then compare results for mountains and plains.
 \section{Duvergers Law}
-Maurice Duverger, a prominent French political scientist introduced a principle in the mid-20th century that has since become foundational in the study of electoral systems. Duverger's law states that electoral systems that follow a single-member plurality system (SMPS) such as India where the winner takes all tend to result in the dominance of two major political parties. Popular examples for this are the USA and UK elections, where this has been observed. However, this is not a firm law as it does not hold in India and Canada.
-Two primary mechanisms have been identified through which electoral systems influence party structures in relation to Duvergers law:
- \begin{enumerate}
-     \item \textbf{Mechanical effect:}  In a single member plurality system, the party receiving the most votes wins. This means that the smaller parties often struggle to secure representation. This process causes over representation of larger parties and under representation of smaller parties leading to a concentration of political competition between two dominant parties. Often, Duverger's law has been used to study national level competitions but the essence of this law has been often identified on district level \citep{cox1997making,GALLAGHER199133,lijphart1994,rae1971political}. Increase in competition between multiple parties at a district level indicates a higher competition at national level too.
-     \item \textbf{Psychological effect:} This is a direct response to the mechanical effect by the voters and political elites. For example, knowing that smaller parties have little chance of winning, voters avoid wasting their votes on them, instead opting for one of the major contenders. Similarly, political elites may choose not to enter the race under unfavorable conditions or may form coalitions to enhance their viability.
- \end{enumerate}
- The distinction between mechanical effect and psychological effect might seem blurred at first but it is important to note that there can be various reasons for voters responding to the mechanical effect. Mechanical factor can be measured using various magnitudes like the Laakso and Taagpara index \citep{laakso1979effective} or the Golosov index \citep{golosov2010effective} but it is often difficult to quantify the psychological effect. The psychological effect is not limited solely to the example mentioned above and there can be various reasons for the mechanical effect, which can often be difficult to measure. For example information flow may influence this dominance and more than two parties may emerge in single member plurality systems even when all voters are strategic \citep{clough2007strategic}. Hence, it is important to note that 
+
+In the previous chapter we studied the mechanical and psychological effect of Duverger’s law. The distinction between mechanical effect and psychological effect might seem blurred at first but it is important to note that there can be various reasons for voters responding to the mechanical effect. Mechanical factor can be measured using various magnitudes like the Laakso and Taagpara index \citep{laakso1979effective} or the Golosov index \citep{golosov2010effective} but it is often difficult to quantify the psychological effect. The psychological effect is not limited solely to the example mentioned above and there can be various reasons for the mechanical effect, which can often be difficult to measure. For example information flow may influence this dominance and more than two parties may emerge in single member plurality systems even when all voters are strategic \citep{clough2007strategic}. Hence, it is important to note that 
 
 \vspace{0.3cm}
 
@@ -98,13 +93,6 @@ Although there are various questions in NFHS 1998 and onwards, there is a limite
 
 From 1977 to 2019, there are a total of 239 mountain constituencies and 2911 plain constituencies, suggesting an imbalanced dataset. To check for distribution (whether it is normal or not and its standard deviation) a preliminary analysis is performed. The figure helps visualize the data by organizing values into small intervals (bins of intervals 0.1) and showing their density by plotting histograms. Density is used to normalize the data, making it easier to compare shapes of distributions by making the total area of all rectangles equal to one.
 
-% \begin{figure}[h]
-%     \centering
-%     \includegraphics[width=0.9\textwidth]{figures/lok/histogram.jpeg}
-%     \caption{Histogram illustrating the distribution of effective parties for mountain and plain constituencies 
-% }
-    \label{img:histogram}
-% \end{figure}
 
 \begin{table}[h]
 \centering
@@ -222,28 +210,6 @@ In Table \ref{tab:mountain_percentage_district} and \ref{tab:plain_percentage_di
 \vspace{0.3cm} 
 We find the mean of all effective parties of all districts for each state over the election years and plot them over a graph (Figures \ref{img:mountain_enp} and \ref{img:plain_enp}). Then we find the best fit line (regression analysis) and check the slope of each state over the years.
 
-% \begin{figure}[h]
-%     \centering
-%     \includegraphics[width=0.9\textwidth]{figures/lok/mountain_states.jpeg}
-%     \caption{Mountain states: Effective parties for each state}
-    \label{img:mountain_enp}
-% \end{figure}
-
-
-% \begin{figure}[h]
-%     \centering
-%     \includegraphics[width=0.9\textwidth]{figures/lok/plains_states.jpeg}
-%     \caption{Plain states: Effective parties for each state}
-    \label{img:plain_enp}
-% \end{figure}
-
-% \begin{figure}[h]
-%     \centering
-%     \includegraphics[width=0.9\textwidth]{figures/lok/final.jpeg}
-%     \caption{Mountain states v/s Plain States: Effective parties for entire regions}
-    \label{img:overall_enp}
-% \end{figure}
-
 \vspace{0.3cm}
 
 The slopes in Table \ref{tab:state_data} are multiplied by a factor of 100 because the change in effective parties is very gradual. In Table \ref{tab:state_data} of the plains and mountain states, it is evident that the slope of the best-fit lines is positive for all plain states except Rajasthan. Similarly it is negative or close to 0 for all mountainous states except meghalaya. Moreover, the y-intercepts for the plains states tend to be higher than those for the mountain states, suggesting a generally higher starting point for the effective number of parties in the plains. In contrast, the mountain states exhibit lower slopes and, in some cases, negative or near-zero slopes (e.g., Nagaland and Mizoram) implying stability or even a slight decline in the effective number of parties over time.  An interesting trend is observed in Manipur where the original intercept is very high (only state with absolute slope greater than 2) and shows a significant decrease in the effective number of parties over time which could be indicative of stronger convergence to Duverger’s law. Meghalaya is the only state with a significant positive slope and shows divergence. Rest of the states either have a negative slope or a positive slope close to $0.5$, indicating stability with mean less than 3 in every state except Manipur. Sikkim has a significant positive slope but it is slowly converging towards 2 as it begins from a very low number of effective parties.
@@ -277,7 +243,7 @@ States & 0.785 \\
 
 
 \subsubsection{Assembly Elections}
-For assembly elections we do a similar analysis and calculate the same statistics. The histogram shows a higher number of density around the ENP value 2 for mountains than plains. This means that mountains on an overall level have a higher number of constituencies with ENP values 2. Apart from this we also observe the overall average for mountains is lesser than mountains. This points to our hypothesis that there is some difference between the mountain and states. We use the Mann-Whitney U test to confirm and find much stronger statistical difference than the lok sabha elections. This can be due to the higher number of constituencies analysed in assembly elections with a bigger difference. However, to test our hypothesis we need to check for convergence or divergence over time in both the plains and mountains. 
+For assembly elections we do a similar analysis and calculate the same statistics. The histogram \ref{img:assembly_histogram} shows a higher number of density around the ENP value 2 for mountains than plains. This means that mountains on an overall level have a higher number of constituencies with ENP values 2. Apart from this we also observe the overall average for mountains is lesser than mountains. This points to our hypothesis that there is some difference between the mountain and states. We use the Mann-Whitney U test to confirm and find much stronger statistical difference than the lok sabha elections. This can be due to the higher number of constituencies analysed in assembly elections with a bigger difference. However, to test our hypothesis we need to check for convergence or divergence over time in both the plains and mountains. 
 
 \begin{table}[h]
     \centering
@@ -317,18 +283,12 @@ For assembly elections we do a similar analysis and calculate the same statistic
         
 In table \ref{tab:assembly_mountain_percentage_district} and \ref{tab:assembly_plains_percentage_district} we find that in the initial years the ENP value for mountains is higher than plains but with time the values are slowly converging for mountains and vice versa for plains. The Plains consistently exhibit a higher concentration of districts with ENP values exceeding $3$, exceeding the hard threshold from 1990 and onwards.  The Mountains present a more balanced distribution as the percentages in $\leq$ $2$ and 2 \- 2.5 range is higher.  The Plains  register lower percentages in the $\leq$ $2$ and 2 \- 2.5 categories. The trends suggest that there is a convergence happening in mountains whereas the ENP values are diverging strongly in the plains. Hence, this calls for a more detailed further analysis.
 
- We observe that the ENP value is high in compared to the lok sabha elections but the trends are similar. Uttarakhand, Meghalaya show positive slopes but apart from them all of are showing \textbf{strong} decreasing trends. Similar to lok sabha elections, the ENP converges strongly after the formation of the state. This can be attributed due to the competition between many parties like UKD (Uttarakhand Akali Dal) which started the entire movement. Similar to \cite{fey2007duverger} model, we observe that the ideologies of all the parties converged in the state. Similar to UKD, Congress and BJP also started to advocate for a seperate state of Uttarkhand. This led to the fast convergence of the districts to ENP value below 3. Although converging, the values of ENP are higher than the lok sabha elections. The average value for ENP is above or close to 2.5 in a lot of states slightly violating the soft cutoff. Variability is high in states like Sikkim and Nagaland, showing frequent shifts in ENP, possibly due to regional or insurgency related factors. 
+ We plot ENP values for all states for both plains (\ref{img:assembly_plain_enp}) and mountains (\ref{img:assembly_mountain_enp}). We observe that the ENP value is high in compared to the lok sabha elections but the trends are similar. Uttarakhand, Meghalaya show positive slopes but apart from them all of are showing \textbf{strong} decreasing trends. Similar to lok sabha elections, the ENP converges strongly after the formation of the state. This can be attributed due to the competition between many parties like UKD (Uttarakhand Akali Dal) which started the entire movement. Similar to \cite{fey2007duverger} model, we observe that the ideologies of all the parties converged in the state. Similar to UKD, Congress and BJP also started to advocate for a seperate state of Uttarkhand. This led to the fast convergence of the districts to ENP value below 3. Although converging, the values of ENP are higher than the lok sabha elections. The average value for ENP is above or close to 2.5 in a lot of states slightly violating the soft cutoff. Variability is high in states like Sikkim and Nagaland, showing frequent shifts in ENP, possibly due to regional or insurgency related factors. 
  
  In plain states also we observe a similar trend to Lok Sabha elections. Apart from West Bengal all states show a strong diverging trend. Almost all of them have an average $\geq$ 3, grossly violating the Duverger's law with Haryana, Bihar and Uttar Pradesh (representing the Hindi heartlands) having the highest slopes and averages.  Assam also shows fluctuations but maintains a relatively stable ENP, reflecting periodic shifts without consistent fragmentation. The y intercept (beginning point) is also high for Plains than the mountains. However, the y-intercept is also higher in Assembly elections for all of the states. 
 
 
-To analyse them together, we plot all the mountains and plain districts together and observe there trends. It is important to note that the best fit lines for both start from a similar y-intercept, indicating a similar start. The Mountain States display a pattern with significant fluctuations with peaks around 1985 and 2000. Despite these temporary spikes, the overall trend line for the mountain states indicates a declining trajectory over time. This downward trend points towards a consolidation of parties and reduced party fragmentation. However, in the plain states we observe a gradual departure from single party dominance towards more competitive multiparty systems. The best fit lines for both mountain and plain states start from a similar value but converge and diverge quickly respectively. The higher ENP values in assembly elections can be attributed to the presence of regional parties and rise of new identities in the plains. First presented by \citep{lijphart1994}, a lot of scholars have argued the presence of regional parties in assembly elections to increase the competition. These regional parties were based on different identities like caste, religion in different states. A proper explanation for this will be looked in the next section.
-% \begin{figure}[h]
-%     \centering
-%     \includegraphics[width=0.9\textwidth]{figures/assembly/histogram.jpeg}
-%     \caption{Histogram illustrating the distribution of effective parties for mountain and plain constituencies }
-%     \label{img:assembly_histogram}
-% \end{figure}
+To analyse them together, we plot all the mountains and plain districts together in \ref{img:assembly_overall_enp} and observe there trends. It is important to note that the best fit lines for both start from a similar y-intercept, indicating a similar start. The Mountain States display a pattern with significant fluctuations with peaks around 1985 and 2000. Despite these temporary spikes, the overall trend line for the mountain states indicates a declining trajectory over time. This downward trend points towards a consolidation of parties and reduced party fragmentation. However, in the plain states we observe a gradual departure from single party dominance towards more competitive multiparty systems. The best fit lines for both mountain and plain states start from a similar value but converge and diverge quickly respectively. The higher ENP values in assembly elections can be attributed to the presence of regional parties and rise of new identities in the plains. First presented by \citep{lijphart1994}, a lot of scholars have argued the presence of regional parties in assembly elections to increase the competition. These regional parties were based on different identities like caste, religion in different states. A proper explanation for this will be looked in the next section.
 
 \begin{table}[]
     \centering
@@ -348,27 +308,7 @@ To analyse them together, we plot all the mountains and plain districts together
     \label{tab:assembly_slopes_plains}
     \end{table}
 
-% \begin{figure}[h]
-%     \centering
-%     \includegraphics[width=0.9\textwidth]{figures/assembly/assembly_elections_mountain_states.jpeg}
-%     \caption{Mountain states: Effective parties for each state}
-%     \label{img:assembly_mountain_enp}
-% \end{figure}
 
-
-% \begin{figure}[h]
-%     \centering
-%     \includegraphics[width=0.9\textwidth]{figures/assembly/assembly_elections_plains_states.jpeg}
-%     \caption{Plain states: Effective parties for each state}
-%     \label{img:assembly_plain_enp}
-% \end{figure}
-
-% \begin{figure}[h]
-%     \centering
-%     \includegraphics[width=0.9\textwidth]{figures/assembly/assembly_final_adjusted.jpeg}
-%     \caption{Mountain states v/s Plain States: Effective parties for entire regions}
-%     \label{img:assembly_overall_enp}
-% \end{figure}
 
 \subsection{NFHS Analysis}
 In the following section we will analyse the parameters described above and describe the results and correlations observed.
@@ -403,20 +343,7 @@ Bihar             & 60   & 58.4 & 60.2 & 39   & 38.7 & 18         \\
 \label{tab:child_marriage}
 \end{table}
 
-% \begin{figure}[H]
-%     \centering
-%     \includegraphics[width=0.9\textwidth]{figures/nfhs/plain_states_marriage_subplots.jpeg}
-%     \caption{Child Marriage age in Plain States}
-%     \label{fig:nfhs_plain_marriage}
-% \end{figure}
 
-
-% \begin{figure}[H]
-%     \centering
-%     \includegraphics[width=0.9\textwidth]{figures/nfhs/mountainous_states_marriage_subplots.jpeg}
-%     \caption{Child Marriage age in Mountain States}
-%     \label{fig:nfhs_mountain_marriage}
-% \end{figure}
 The data in Table \ref{tab:child_marriage} suggests a clear trend of improvement across all states from 1992 to 2019 as the child marriage rates are decreasing, indicating progress in almost all the states. Himachal Pradesh, Mizoram, Manipur, Nagaland, Uttarakhand, and Sikkim all rank within the top ten. Arunachal Pradesh and tripura are the only two mountain states present in the bottom eight. Himachal Pradesh has secured the first position due to a steady and substantial decline in values over the years. Mizoram follows closely, showing consistently low values and strong improvement. In contrast, plain states display mixed performance. While Punjab and Delhi rank relatively high, states like Bihar, Rajasthan, and Jharkhand remain at the bottom despite showing progress. Overall, mountainous states tend to perform better overall as they dominate the top ranks.
 
 \subsubsection{Literacy}

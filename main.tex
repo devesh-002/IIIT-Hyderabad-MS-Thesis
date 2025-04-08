@@ -19,6 +19,8 @@
 \usepackage{pdfpages}
 \usepackage{siunitx}
 \usepackage{csquotes}
+\usepackage{placeins}   % Provides \FloatBarrier
+
 \usepackage[backend=biber,style=apa,natbib=true]{biblatex} % Use biblatex for APA style
 \usepackage{booktabs}
 
@@ -69,22 +71,24 @@
 \input{sections/lit_review}
 
 %--------------------------------------------------------
-\chapter{Title of the chapter goes here...}
+\chapter{Chapter 3}
 \label{ch:ch1}
 \input{sections/ch1.tex}
 
 %--------------------------------------------------------
-\chapter{Title of the chapter goes here...}
+\chapter{Chapter 4}
 \label{ch:ch2}
 \input{sections/ch2.tex}
 
 %--------------------------------------------------------
 \chapter{Conclusion}
 \label{ch:conc}
-% \input{sections/conclusion.tex}
+\input{sections/conclusion.tex}
 
 %--------------------------------------------------------
 
 \printbibliography % Use printbibliography instead of \bibliography
-
+\chapter{Appendix}
+\label{ch:appendix}
+\input{sections/appendix.tex}
 \end{document}
