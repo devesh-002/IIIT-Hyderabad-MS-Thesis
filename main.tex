@@ -59,20 +59,53 @@
 
 \begin{document}
 \pagenumbering{roman}
+\input{sections/titlePage.tex}
+
+%----------COPYRIGHT PAGE--------------------
+\newpage
+\thispagestyle{empty}
+\renewcommand{\thesisdedication}{{\large Copyright \copyright~Devesh Marwah, 2025\\}{\large All Rights Reserved\\}}
+\thesisdedicationpage
+
+%------------------------------------------------
+\input{sections/certificate.tex}
 \mastersthesis
+% \renewcommand{\baselinestretch}{1.5}
+%
+%
+
+\chapter*{Acknowlegements}
+\label{ch:Acknowlegements}
+\input{sections/ack.tex}
+
+
+% %--------------------------------------------------------
+\chapter*{Abstract}
+\label{ch:abstract}
+\input{sections/abstract.tex}
+
+\tableofcontents
+\listoffigures
+\let\cleardoublepage\clearpage
+\listoftables
+\printglossary[type=\acronymtype,title=Abbreviations,nonumberlist]
+% \printunsrtglossary[type=symbols]
+
+%--------------------------------------------------------
+% 'List of Publications'
+\chapter*{List of Related Publications}
+\label{ch:relatedPubs}
+\input{sections/relatedPapers.tex}
+
 
 % \chapter{Certificate}
 % \label{ch:Certificate}
 % \input{sections/certificate.tex}
-% %--------------------------------------------------------
+% % %--------------------------------------------------------
 % \chapter{Acknowlegements}
-% \label{ch:Certificate}
-% \input{sections/}
+% \label{ch:Acknowlegements}
+% \input{sections/ack.tex}
 
-% %--------------------------------------------------------
-% \chapter{Abstract}
-% \label{ch:abstract}
-% \input{sections/abstract.tex}
 %--------------------------------------------------------
 \chapter{Introduction}
 \label{ch:intro}
