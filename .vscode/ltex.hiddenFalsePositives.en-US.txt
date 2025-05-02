@@ -1,0 +1,1 @@
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QIn lowland societies women's autonomy was often curbed by stricter marriage customs, purdah or seclusion practices (in some Hindu and Muslim kingdoms).\\E$"}
