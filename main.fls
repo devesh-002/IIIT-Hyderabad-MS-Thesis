@@ -294,8 +294,14 @@ INPUT /home/devesh/.miktex/texmfs/install/tex/latex/epstopdf-pkg/epstopdf-base.s
 INPUT /home/devesh/.miktex/texmfs/install/tex/latex/00miktex/epstopdf-sys.cfg
 INPUT /home/devesh/.miktex/texmfs/install/tex/latex/00miktex/epstopdf-sys.cfg
 INPUT /home/devesh/.miktex/texmfs/install/tex/latex/00miktex/epstopdf-sys.cfg
-OUTPUT main.out
+INPUT ./main.out
+INPUT ./main.out
+INPUT main.out
+INPUT main.out
 OUTPUT main.pdf
+INPUT ./main.out
+INPUT ./main.out
+OUTPUT main.out
 INPUT /home/devesh/.miktex/texmfs/install/tex/latex/pdflscape/pdflscape.sty
 INPUT /home/devesh/.miktex/texmfs/install/tex/latex/pdflscape/pdflscape.sty
 INPUT /home/devesh/.miktex/texmfs/install/tex/latex/pdflscape/pdflscape-nometadata.sty
@@ -317,9 +323,7 @@ INPUT /home/devesh/.miktex/texmfs/install/tex/latex/biblatex-apa/american-apa.lb
 INPUT /home/devesh/.miktex/texmfs/install/tex/latex/biblatex/lbx/american.lbx
 INPUT /home/devesh/.miktex/texmfs/install/tex/latex/biblatex/lbx/american.lbx
 INPUT /home/devesh/.miktex/texmfs/install/tex/latex/biblatex/lbx/american.lbx
-INPUT /home/devesh/.miktex/texmfs/install/tex/latex/biblatex/lbx/english.lbx
-INPUT /home/devesh/.miktex/texmfs/install/tex/latex/biblatex/lbx/english.lbx
-INPUT /home/dOUTPUT main.aux
+INPUT /home/devesh/.miktex/texmfs/install/tex/latex/biblatex/lbx/englOUTPUT main.aux
 OUTPUT main.aux
 INPUT /home/devesh/.miktex/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
 INPUT /home/devesh/.miktex/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
@@ -518,7 +522,15 @@ INPUT /home/devesh/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.
 INPUT /home/devesh/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 INPUT /home/devesh/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy8.pfb
 INPUT /home/devesh/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy8.pfb
-bplots.pdf
+T ./figures/nfhs/plain_states_contraceptive_subplots.pdf
+INPUT ./figures/nfhs/plain_states_contraceptive_subplots.pdf
+INPUT ./figures/nfhs/plain_states_contraceptive_subplots.pdf
+INPUT ./figures/nfhs/plain_states_contraceptive_subplots.pdf
+INPUT ./figures/nfhs/plain_states_contraceptive_subplots.pdf
+INPUT ./figures/nfhs/plain_states_contraceptive_subplots.pdf
+INPUT ./figures/nfhs/mountainous_states_contraceptive_subplots.pdf
+INPUT ./figures/nfhs/mountainous_states_contraceptive_subplots.pdf
+INPUT ./figures/nfhs/mountainous_states_contraceptive_subplots.pdf
 INPUT ./figures/nfhs/mountainous_states_contraceptive_subplots.pdf
 INPUT ./figures/nfhs/mountainous_states_contraceptive_subplots.pdf
 INPUT ./figures/nfhs/mountainous_states_contraceptive_subplots.pdf
@@ -565,6 +577,8 @@ INPUT /home/devesh/.miktex/texmfs/install/fonts/type1/urw/times/utmb8a.pfb
 INPUT /home/devesh/.miktex/texmfs/install/fonts/type1/urw/times/utmb8a.pfb
 INPUT /home/devesh/.miktex/texmfs/install/fonts/type1/urw/times/utmbi8a.pfb
 INPUT /home/devesh/.miktex/texmfs/install/fonts/type1/urw/times/utmbi8a.pfb
+INPUT /home/devesh/.miktex/texmfs/install/fonts/type1/urw/times/utmr8a.pfb
+INPUT /home/devesh/.miktex/texmfs/install/fonts/type1/urw/times/utmr8a.pfb
 INPUT /home/devesh/.miktex/texmfs/install/fonts/type1/urw/times/utmr8a.pfb
 INPUT /home/devesh/.miktex/texmfs/install/fonts/type1/urw/times/utmr8a.pfb
 INPUT /home/devesh/.miktex/texmfs/install/fonts/type1/urw/times/utmri8a.pfb

@@ -210,43 +210,6 @@
       \verb https://www.bbc.com/news/magazine-16592633
       \endverb
     \endentry
-    \entry{Mohammad_TOI}{misc}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=5c5705f02cde576d2e0bb23adb97b526}{%
-           family={Anab},
-           familyi={A\bibinitperiod},
-           given={Mohammad},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {TOI}%
-      }
-      \strng{namehash}{5c5705f02cde576d2e0bb23adb97b526}
-      \strng{fullhash}{5c5705f02cde576d2e0bb23adb97b526}
-      \strng{fullhashraw}{5c5705f02cde576d2e0bb23adb97b526}
-      \strng{bibnamehash}{5c5705f02cde576d2e0bb23adb97b526}
-      \strng{authorbibnamehash}{5c5705f02cde576d2e0bb23adb97b526}
-      \strng{authornamehash}{5c5705f02cde576d2e0bb23adb97b526}
-      \strng{authorfullhash}{5c5705f02cde576d2e0bb23adb97b526}
-      \strng{authorfullhashraw}{5c5705f02cde576d2e0bb23adb97b526}
-      \field{sortinit}{A}
-      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{The Times of India}
-      \field{title}{20 years of Uttarakhand: Statehood agitators recall struggle, press for long-pending demands: Dehradun News - Times of India}
-      \field{year}{2020}
-      \verb{urlraw}
-      \verb https://timesofindia.indiatimes.com/city/dehradun/20-years-of-uttarakhand-statehood-agitators-recall-struggle-press-for-long-pending-demands/articleshow/79134884.cms
-      \endverb
-      \verb{url}
-      \verb https://timesofindia.indiatimes.com/city/dehradun/20-years-of-uttarakhand-statehood-agitators-recall-struggle-press-for-long-pending-demands/articleshow/79134884.cms
-      \endverb
-    \endentry
     \entry{Hutchinson_2022}{article}{}{}
       \name{author}{8}{}{%
         {{un=0,uniquepart=base,hash=b9117ad167f08660991674672118461b}{%
@@ -1112,6 +1075,46 @@
       \field{title}{Making votes count: strategic coordination in the world's electoral systems}
       \field{year}{1997}
     \endentry
+    \entry{d2012extending}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=d22f5684e61adca2264d5e32ca9e5b53}{%
+           family={D’Alimonte},
+           familyi={D\bibinitperiod},
+           given={Roberto},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2ac6782cf6a0d84953a8bf7874e8453b}{%
+           family={Grofman},
+           familyi={G\bibinitperiod},
+           given={B},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=afdd7197f3eb16cc4df8e3b905d2ab47}{%
+           family={De\bibnamedelima Sio},
+           familyi={D\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={L},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d953cfe95a075c42e5c9f55f5c2146bf}
+      \strng{fullhash}{eb27cbce93b054acba669e92ab1288fa}
+      \strng{fullhashraw}{eb27cbce93b054acba669e92ab1288fa}
+      \strng{bibnamehash}{eb27cbce93b054acba669e92ab1288fa}
+      \strng{authorbibnamehash}{eb27cbce93b054acba669e92ab1288fa}
+      \strng{authornamehash}{d953cfe95a075c42e5c9f55f5c2146bf}
+      \strng{authorfullhash}{eb27cbce93b054acba669e92ab1288fa}
+      \strng{authorfullhashraw}{eb27cbce93b054acba669e92ab1288fa}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{World Public Choice Societies Congress, Miami, FL}
+      \field{title}{Extending Duverger’s law when parties become blocs: Evidence from Italy under three different electoral systems, 1945-2010}
+      \field{year}{2012}
+    \endentry
     \entry{verrier_elvin_2008}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=1ed1b436cbdeccb826e3f28c53bbf2d7}{%
@@ -1447,6 +1450,45 @@
       \verb{url}
       \verb http://hdl.handle.net/2142/85322
       \endverb
+    \endentry
+    \entry{dunleavy2008duverger}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=fe7f38053172cf8f4ef5bf91e3788ba8}{%
+           family={Dunleavy},
+           familyi={D\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8cf583b7f5ba84fa8884234943de0879}{%
+           family={Diwakar},
+           familyi={D\bibinitperiod},
+           given={Rekha},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c097f365786c35235faa924b911cd58a}{%
+           family={Dunleavy},
+           familyi={D\bibinitperiod},
+           given={Christopher},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{377a8c448936fd6977d0c8540705f9e4}
+      \strng{fullhash}{450921a30358a2cd1b31022cbe8213c9}
+      \strng{fullhashraw}{450921a30358a2cd1b31022cbe8213c9}
+      \strng{bibnamehash}{450921a30358a2cd1b31022cbe8213c9}
+      \strng{authorbibnamehash}{450921a30358a2cd1b31022cbe8213c9}
+      \strng{authornamehash}{377a8c448936fd6977d0c8540705f9e4}
+      \strng{authorfullhash}{450921a30358a2cd1b31022cbe8213c9}
+      \strng{authorfullhashraw}{450921a30358a2cd1b31022cbe8213c9}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Is Duverger's Law based on a mistake?}
+      \field{year}{2008}
     \endentry
     \entry{duverger1954political}{book}{}{}
       \name{author}{1}{}{%
@@ -4862,43 +4904,6 @@
       \verb https://www.bbc.com/news/magazine-16592633
       \endverb
     \endentry
-    \entry{Mohammad_TOI}{misc}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=5c5705f02cde576d2e0bb23adb97b526}{%
-           family={Anab},
-           familyi={A\bibinitperiod},
-           given={Mohammad},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {TOI}%
-      }
-      \strng{namehash}{5c5705f02cde576d2e0bb23adb97b526}
-      \strng{fullhash}{5c5705f02cde576d2e0bb23adb97b526}
-      \strng{fullhashraw}{5c5705f02cde576d2e0bb23adb97b526}
-      \strng{bibnamehash}{5c5705f02cde576d2e0bb23adb97b526}
-      \strng{authorbibnamehash}{5c5705f02cde576d2e0bb23adb97b526}
-      \strng{authornamehash}{5c5705f02cde576d2e0bb23adb97b526}
-      \strng{authorfullhash}{5c5705f02cde576d2e0bb23adb97b526}
-      \strng{authorfullhashraw}{5c5705f02cde576d2e0bb23adb97b526}
-      \field{sortinit}{A}
-      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{The Times of India}
-      \field{title}{20 years of Uttarakhand: Statehood agitators recall struggle, press for long-pending demands: Dehradun News - Times of India}
-      \field{year}{2020}
-      \verb{urlraw}
-      \verb https://timesofindia.indiatimes.com/city/dehradun/20-years-of-uttarakhand-statehood-agitators-recall-struggle-press-for-long-pending-demands/articleshow/79134884.cms
-      \endverb
-      \verb{url}
-      \verb https://timesofindia.indiatimes.com/city/dehradun/20-years-of-uttarakhand-statehood-agitators-recall-struggle-press-for-long-pending-demands/articleshow/79134884.cms
-      \endverb
-    \endentry
     \entry{Hutchinson_2022}{article}{}{}
       \name{author}{8}{}{%
         {{un=0,uniquepart=base,hash=b9117ad167f08660991674672118461b}{%
@@ -5764,6 +5769,46 @@
       \field{title}{Making votes count: strategic coordination in the world's electoral systems}
       \field{year}{1997}
     \endentry
+    \entry{d2012extending}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=d22f5684e61adca2264d5e32ca9e5b53}{%
+           family={D’Alimonte},
+           familyi={D\bibinitperiod},
+           given={Roberto},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2ac6782cf6a0d84953a8bf7874e8453b}{%
+           family={Grofman},
+           familyi={G\bibinitperiod},
+           given={B},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=afdd7197f3eb16cc4df8e3b905d2ab47}{%
+           family={De\bibnamedelima Sio},
+           familyi={D\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={L},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d953cfe95a075c42e5c9f55f5c2146bf}
+      \strng{fullhash}{eb27cbce93b054acba669e92ab1288fa}
+      \strng{fullhashraw}{eb27cbce93b054acba669e92ab1288fa}
+      \strng{bibnamehash}{eb27cbce93b054acba669e92ab1288fa}
+      \strng{authorbibnamehash}{eb27cbce93b054acba669e92ab1288fa}
+      \strng{authornamehash}{d953cfe95a075c42e5c9f55f5c2146bf}
+      \strng{authorfullhash}{eb27cbce93b054acba669e92ab1288fa}
+      \strng{authorfullhashraw}{eb27cbce93b054acba669e92ab1288fa}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{World Public Choice Societies Congress, Miami, FL}
+      \field{title}{Extending Duverger’s law when parties become blocs: Evidence from Italy under three different electoral systems, 1945-2010}
+      \field{year}{2012}
+    \endentry
     \entry{verrier_elvin_2008}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=1ed1b436cbdeccb826e3f28c53bbf2d7}{%
@@ -6099,6 +6144,45 @@
       \verb{url}
       \verb http://hdl.handle.net/2142/85322
       \endverb
+    \endentry
+    \entry{dunleavy2008duverger}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=fe7f38053172cf8f4ef5bf91e3788ba8}{%
+           family={Dunleavy},
+           familyi={D\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8cf583b7f5ba84fa8884234943de0879}{%
+           family={Diwakar},
+           familyi={D\bibinitperiod},
+           given={Rekha},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c097f365786c35235faa924b911cd58a}{%
+           family={Dunleavy},
+           familyi={D\bibinitperiod},
+           given={Christopher},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{377a8c448936fd6977d0c8540705f9e4}
+      \strng{fullhash}{450921a30358a2cd1b31022cbe8213c9}
+      \strng{fullhashraw}{450921a30358a2cd1b31022cbe8213c9}
+      \strng{bibnamehash}{450921a30358a2cd1b31022cbe8213c9}
+      \strng{authorbibnamehash}{450921a30358a2cd1b31022cbe8213c9}
+      \strng{authornamehash}{377a8c448936fd6977d0c8540705f9e4}
+      \strng{authorfullhash}{450921a30358a2cd1b31022cbe8213c9}
+      \strng{authorfullhashraw}{450921a30358a2cd1b31022cbe8213c9}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Is Duverger's Law based on a mistake?}
+      \field{year}{2008}
     \endentry
     \entry{duverger1954political}{book}{}{}
       \name{author}{1}{}{%

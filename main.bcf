@@ -3062,4 +3062,235 @@
         <bcf:field>author</bcf:field>
         <bcf:field>title</bcf:field>
       </bcf:constraint>
-   
+    </bcf:constraints>
+  </bcf:datamodel>
+  <!-- CITATION DATA -->
+  <!-- SECTION 0 -->
+  <bcf:bibdata section="0">
+    <bcf:datasource type="file" datatype="bibtex" glob="false">cite.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="0">
+    <bcf:citekey order="1" intorder="1">smith1937wealth</bcf:citekey>
+    <bcf:citekey order="2" intorder="1">robinson2012nations</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">anderson1991imagined</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">Hammes2017</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">scott1970igorot</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">took2005native</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">ali2019delusional</bcf:citekey>
+    <bcf:citekey order="7" intorder="2">murton2013himalayan</bcf:citekey>
+    <bcf:citekey order="7" intorder="3">alam2008becoming</bcf:citekey>
+    <bcf:citekey order="7" intorder="4">hussain2015remoteness</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">van2005geographies</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">basistha2024elections</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">kitchin2009international</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">romeijn2020political</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">ECI_WEBSITE</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">kothari1967india</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">duverger1954political</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">shastri1991nehru</bcf:citekey>
+    <bcf:citekey order="16" intorder="1">kothari1967india</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">anand2015downfall</bcf:citekey>
+    <bcf:citekey order="18" intorder="1">kothari1967india</bcf:citekey>
+    <bcf:citekey order="19" intorder="1">shastri2003continuity</bcf:citekey>
+    <bcf:citekey order="20" intorder="1">shastri2009electoral</bcf:citekey>
+    <bcf:citekey order="21" intorder="1">desouza2006india</bcf:citekey>
+    <bcf:citekey order="22" intorder="1">Punjab_1966_reorg</bcf:citekey>
+    <bcf:citekey order="23" intorder="1">yadav1999electoral</bcf:citekey>
+    <bcf:citekey order="24" intorder="1">jaffrelot2012castes</bcf:citekey>
+    <bcf:citekey order="25" intorder="1">ankit2018caste</bcf:citekey>
+    <bcf:citekey order="26" intorder="1">padhiari2008inter</bcf:citekey>
+    <bcf:citekey order="27" intorder="1">gupta1985communalising</bcf:citekey>
+    <bcf:citekey order="28" intorder="1">roy2024politics</bcf:citekey>
+    <bcf:citekey order="29" intorder="1">North_eastern_reorg_1971</bcf:citekey>
+    <bcf:citekey order="30" intorder="1">mishra2000politics</bcf:citekey>
+    <bcf:citekey order="31" intorder="1">mishra2000politics</bcf:citekey>
+    <bcf:citekey order="32" intorder="1">code1979volume</bcf:citekey>
+    <bcf:citekey order="33" intorder="1">pautunthang2024india</bcf:citekey>
+    <bcf:citekey order="34" intorder="1">inoue2005integration</bcf:citekey>
+    <bcf:citekey order="35" intorder="1">Wouters_2023</bcf:citekey>
+    <bcf:citekey order="36" intorder="1">johari1975creation</bcf:citekey>
+    <bcf:citekey order="37" intorder="1">verrier_elvin_2008</bcf:citekey>
+    <bcf:citekey order="38" intorder="1">duverger1954political</bcf:citekey>
+    <bcf:citekey order="39" intorder="1">cox1997making</bcf:citekey>
+    <bcf:citekey order="39" intorder="2">GALLAGHER199133</bcf:citekey>
+    <bcf:citekey order="39" intorder="3">lijphart1994</bcf:citekey>
+    <bcf:citekey order="39" intorder="4">rae1971political</bcf:citekey>
+    <bcf:citekey order="40" intorder="1">palfrey1989mathematical</bcf:citekey>
+    <bcf:citekey order="41" intorder="1">cox1997making</bcf:citekey>
+    <bcf:citekey order="42" intorder="1">forand2015dynamic</bcf:citekey>
+    <bcf:citekey order="43" intorder="1">Eberhard_2017</bcf:citekey>
+    <bcf:citekey order="43" intorder="2">dunleavy2008duverger</bcf:citekey>
+    <bcf:citekey order="44" intorder="1">reed2001duverger</bcf:citekey>
+    <bcf:citekey order="44" intorder="2">d2012extending</bcf:citekey>
+    <bcf:citekey order="45" intorder="1">reed2007duverger</bcf:citekey>
+    <bcf:citekey order="46" intorder="1">gaines1999duverger</bcf:citekey>
+    <bcf:citekey order="47" intorder="1">diwakar2007duverger</bcf:citekey>
+    <bcf:citekey order="48" intorder="1">ziegfeld2021accounts</bcf:citekey>
+    <bcf:citekey order="49" intorder="1">singer2013duverger</bcf:citekey>
+    <bcf:citekey order="50" intorder="1">fey2007duverger</bcf:citekey>
+    <bcf:citekey order="51" intorder="1">lijphart1994</bcf:citekey>
+    <bcf:citekey order="52" intorder="1">taagepera1989seats</bcf:citekey>
+    <bcf:citekey order="52" intorder="2">sridharan1997duverger</bcf:citekey>
+    <bcf:citekey order="53" intorder="1">chhibber1998party</bcf:citekey>
+    <bcf:citekey order="54" intorder="1">chhibber2009formation</bcf:citekey>
+    <bcf:citekey order="55" intorder="1">diwakar2007duverger</bcf:citekey>
+    <bcf:citekey order="55" intorder="2">diwakar2010party</bcf:citekey>
+    <bcf:citekey order="55" intorder="3">mayer2013gross</bcf:citekey>
+    <bcf:citekey order="55" intorder="4">carneggie_duverger</bcf:citekey>
+    <bcf:citekey order="56" intorder="1">chhibber2006duvergerian</bcf:citekey>
+    <bcf:citekey order="57" intorder="1">mayer2013gross</bcf:citekey>
+    <bcf:citekey order="58" intorder="1">price2020rainforest</bcf:citekey>
+    <bcf:citekey order="59" intorder="1">harney2013undercommons</bcf:citekey>
+    <bcf:citekey order="60" intorder="1">graeber2004fragments</bcf:citekey>
+    <bcf:citekey order="61" intorder="1">bodley2012anthropology</bcf:citekey>
+    <bcf:citekey order="61" intorder="2">bodley2014victims</bcf:citekey>
+    <bcf:citekey order="62" intorder="1">hrynkow2018</bcf:citekey>
+    <bcf:citekey order="63" intorder="1">ali2019delusional</bcf:citekey>
+    <bcf:citekey order="64" intorder="1">kapai2020spatial</bcf:citekey>
+    <bcf:citekey order="65" intorder="1">ali2013indigenous</bcf:citekey>
+    <bcf:citekey order="66" intorder="1">horgan2008leaving</bcf:citekey>
+    <bcf:citekey order="67" intorder="1">sixthschedule</bcf:citekey>
+    <bcf:citekey order="68" intorder="1">van2005geographies</bcf:citekey>
+    <bcf:citekey order="69" intorder="1">jamesscott</bcf:citekey>
+    <bcf:citekey order="70" intorder="1">shneiderman2010central</bcf:citekey>
+    <bcf:citekey order="71" intorder="1">guyot2017shadow</bcf:citekey>
+    <bcf:citekey order="72" intorder="1">Farrelly_2013b</bcf:citekey>
+    <bcf:citekey order="73" intorder="1">michaud2017s</bcf:citekey>
+    <bcf:citekey order="74" intorder="1">murton2013himalayan</bcf:citekey>
+    <bcf:citekey order="75" intorder="1">price2020rainforest</bcf:citekey>
+    <bcf:citekey order="76" intorder="1">scott2005civilizations</bcf:citekey>
+    <bcf:citekey order="77" intorder="1">laakso1979effective</bcf:citekey>
+    <bcf:citekey order="78" intorder="1">golosov2010effective</bcf:citekey>
+    <bcf:citekey order="79" intorder="1">clough2007strategic</bcf:citekey>
+    <bcf:citekey order="80" intorder="1">Bol2019StrategicVV</bcf:citekey>
+    <bcf:citekey order="81" intorder="1">kothari1967india</bcf:citekey>
+    <bcf:citekey order="81" intorder="2">candland1997congress</bcf:citekey>
+    <bcf:citekey order="82" intorder="1">Guha2011article</bcf:citekey>
+    <bcf:citekey order="83" intorder="1">farooqui2016can</bcf:citekey>
+    <bcf:citekey order="84" intorder="1">jamesscott</bcf:citekey>
+    <bcf:citekey order="85" intorder="1">census1991</bcf:citekey>
+    <bcf:citekey order="85" intorder="2">census2001</bcf:citekey>
+    <bcf:citekey order="85" intorder="3">census2011</bcf:citekey>
+    <bcf:citekey order="86" intorder="1">NSC2017</bcf:citekey>
+    <bcf:citekey order="87" intorder="1">laakso1979effective</bcf:citekey>
+    <bcf:citekey order="88" intorder="1">diwakar2007duverger</bcf:citekey>
+    <bcf:citekey order="89" intorder="1">globaldata2012</bcf:citekey>
+    <bcf:citekey order="90" intorder="1">pachauri2014priority</bcf:citekey>
+    <bcf:citekey order="91" intorder="1">kishor2004women</bcf:citekey>
+    <bcf:citekey order="92" intorder="1">jejeebhoy2014demand</bcf:citekey>
+    <bcf:citekey order="93" intorder="1">kumar2022measuring</bcf:citekey>
+    <bcf:citekey order="94" intorder="1">shroff2011does</bcf:citekey>
+    <bcf:citekey order="95" intorder="1">Delawarde-Saïas2024</bcf:citekey>
+    <bcf:citekey order="96" intorder="1">kothari1967india</bcf:citekey>
+    <bcf:citekey order="97" intorder="1">jaffrelot2020bjp</bcf:citekey>
+    <bcf:citekey order="98" intorder="1">fey2007duverger</bcf:citekey>
+    <bcf:citekey order="99" intorder="1">lijphart1994</bcf:citekey>
+    <bcf:citekey order="100" intorder="1">Hutchinson_2022</bcf:citekey>
+    <bcf:citekey order="101" intorder="1">kumar2022measuring</bcf:citekey>
+    <bcf:citekey order="102" intorder="1">kishor2004women</bcf:citekey>
+    <bcf:citekey order="103" intorder="1">choi2009strategic</bcf:citekey>
+    <bcf:citekey order="104" intorder="1">ziegfeld2021accounts</bcf:citekey>
+    <bcf:citekey order="105" intorder="1">heath2022so</bcf:citekey>
+    <bcf:citekey order="106" intorder="1">mayer2013gross</bcf:citekey>
+    <bcf:citekey order="107" intorder="1">mishra2000politics</bcf:citekey>
+    <bcf:citekey order="108" intorder="1">mathur2015remote</bcf:citekey>
+    <bcf:citekey order="109" intorder="1">inoue2005integration</bcf:citekey>
+    <bcf:citekey order="110" intorder="1">karlsson2013evading</bcf:citekey>
+    <bcf:citekey order="111" intorder="1">sarma2017bodoland</bcf:citekey>
+    <bcf:citekey order="112" intorder="1">chima2023insurgency</bcf:citekey>
+    <bcf:citekey order="113" intorder="1">Hammond_2011</bcf:citekey>
+    <bcf:citekey order="114" intorder="1">moosvi1973production</bcf:citekey>
+    <bcf:citekey order="115" intorder="1">scott2005civilizations</bcf:citekey>
+    <bcf:citekey order="116" intorder="1">boonyasaranai2014common</bcf:citekey>
+    <bcf:citekey order="117" intorder="1">walker1999legend</bcf:citekey>
+    <bcf:citekey order="118" intorder="1">noorani2010india</bcf:citekey>
+    <bcf:citekey order="118" intorder="2">guyot2017shadow</bcf:citekey>
+    <bcf:citekey order="118" intorder="3">acharya2022boundaries</bcf:citekey>
+    <bcf:citekey order="119" intorder="1">Bureau_2024</bcf:citekey>
+    <bcf:citekey order="120" intorder="1">alam2008becoming</bcf:citekey>
+    <bcf:citekey order="121" intorder="1">Allen_2012</bcf:citekey>
+    <bcf:citekey order="122" intorder="1">Du_2015</bcf:citekey>
+    <bcf:citekey order="123" intorder="1">WashingtonPost_2015</bcf:citekey>
+    <bcf:citekey order="123" intorder="2">TheGuardian2011</bcf:citekey>
+    <bcf:citekey order="124" intorder="1">Papanek_1973</bcf:citekey>
+    <bcf:citekey order="124" intorder="2">Devi2019</bcf:citekey>
+    <bcf:citekey order="125" intorder="1">gooch2014daughters</bcf:citekey>
+    <bcf:citekey order="126" intorder="1">chowdhry1993persistence</bcf:citekey>
+    <bcf:citekey order="127" intorder="1">sangari1981sati</bcf:citekey>
+    <bcf:citekey order="128" intorder="1">moore2011eco</bcf:citekey>
+    <bcf:citekey order="129" intorder="1">rajasekhar2016women</bcf:citekey>
+    <bcf:citekey order="130" intorder="1">mishra2018targeting</bcf:citekey>
+    <bcf:citekey order="131" intorder="1">mahanta2013gender</bcf:citekey>
+    <bcf:citekey order="132" intorder="1">TR_Sharma_1987</bcf:citekey>
+    <bcf:citekey order="133" intorder="1">chauhan2004bipolar</bcf:citekey>
+    <bcf:citekey order="134" intorder="1">StateEffectiveness2020</bcf:citekey>
+    <bcf:citekey order="135" intorder="1">axelby2015hermit</bcf:citekey>
+    <bcf:citekey order="136" intorder="1">lacina2009problem</bcf:citekey>
+    <bcf:citekey order="137" intorder="1">hassan2007state</bcf:citekey>
+    <bcf:citekey order="138" intorder="1">arora2012politics</bcf:citekey>
+    <bcf:citekey order="139" intorder="1">murton2013himalayan</bcf:citekey>
+    <bcf:citekey order="140" intorder="1">choi2009strategic</bcf:citekey>
+    <bcf:citekey order="141" intorder="1">ziegfeld2021accounts</bcf:citekey>
+  </bcf:section>
+  <!-- SORTING TEMPLATES -->
+  <bcf:sortingtemplate name="apa">
+    <bcf:sort order="1">
+      <bcf:sortitem order="1">presort</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="2" final="1">
+      <bcf:sortitem order="1">sortkey</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="3">
+      <bcf:sortitem order="1">sortname</bcf:sortitem>
+      <bcf:sortitem order="2">author</bcf:sortitem>
+      <bcf:sortitem order="3">editor</bcf:sortitem>
+      <bcf:sortitem order="4">sorttitle</bcf:sortitem>
+      <bcf:sortitem order="5">title</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="4">
+      <bcf:sortitem order="1">pubstate</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="5">
+      <bcf:sortitem order="1">sortyear</bcf:sortitem>
+      <bcf:sortitem order="2">year</bcf:sortitem>
+      <bcf:sortitem literal="1" order="3">-2000000000</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="6">
+      <bcf:sortitem order="1">month</bcf:sortitem>
+      <bcf:sortitem literal="1" order="2">-2000000000</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="7">
+      <bcf:sortitem order="1">day</bcf:sortitem>
+      <bcf:sortitem literal="1" order="2">-2000000000</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="8">
+      <bcf:sortitem order="1">sorttitle</bcf:sortitem>
+      <bcf:sortitem order="2">title</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="9">
+      <bcf:sortitem order="1">volume</bcf:sortitem>
+      <bcf:sortitem literal="1" order="2">0</bcf:sortitem>
+    </bcf:sort>
+  </bcf:sortingtemplate>
+  <!-- DATALISTS -->
+  <bcf:datalist section="0"
+                name="apa/apasortcite//global/global/global"
+                type="entry"
+                sortingtemplatename="apa"
+                sortingnamekeytemplatename="apasortcite"
+                labelprefix=""
+                uniquenametemplatename="global"
+                labelalphanametemplatename="global"
+                namehashtemplatename="global">
+  </bcf:datalist>
+  <bcf:datalist section="0"
+                name="apa/global//global/global/global"
+                type="entry"
+                sortingtemplatename="apa"
+                sortingnamekeytemplatename="global"
+                labelprefix=""
+                uniquenametemplatename="global"
+                labelalphanametemplatename="global"
+                namehashtemplatename="global">
+  </bcf:datalist>
+</bcf:controlfile>
