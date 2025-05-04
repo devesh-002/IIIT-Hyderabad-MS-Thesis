@@ -1,0 +1,48 @@
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Overview}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Research Questions}{3}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Challenges Faced}{4}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Thesis Overview}{5}{section.1.4}%
+\contentsline {chapter}{\numberline {2}Literature Review}{6}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Introduction}{6}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Electoral Politics of India}{6}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Post Independence Era}{6}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Rise of Identity Politics in the Northern Plains}{7}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Politics in Northern Mountains of India}{8}{subsection.2.2.3}%
+\contentsline {section}{\numberline {2.3}Duverger's law}{9}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Definition}{9}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Duverger's law around the world}{9}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}Duverger's law in India}{10}{subsection.2.3.3}%
+\contentsline {section}{\numberline {2.4}How Mountains Are Different from Plains}{11}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}World wide}{11}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Indian Case}{12}{subsection.2.4.2}%
+\contentsline {section}{\numberline {2.5}Zomia}{13}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Conclusion}{14}{section.2.6}%
+\contentsline {chapter}{\numberline {3}Identity, Gender, and Electoral Variations in India's States}{16}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Introduction}{16}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Duverger's Law}{16}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Revisiting the Indian Case}{17}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Dataset}{17}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Duverger's law}{19}{section.3.5}%
+\contentsline {section}{\numberline {3.6}NFHS Dataset}{20}{section.3.6}%
+\contentsline {subsection}{\numberline {3.6.1}Description of Parameters}{20}{subsection.3.6.1}%
+\contentsline {subsection}{\numberline {3.6.2}Ranking Methodology}{21}{subsection.3.6.2}%
+\contentsline {section}{\numberline {3.7}Lok Sabha}{22}{section.3.7}%
+\contentsline {subsection}{\numberline {3.7.1}Preliminary analysis}{22}{subsection.3.7.1}%
+\contentsline {subsection}{\numberline {3.7.2}Duverger's law through the years}{24}{subsection.3.7.2}%
+\contentsline {section}{\numberline {3.8}Assembly Elections}{26}{section.3.8}%
+\contentsline {subsection}{\numberline {3.8.1}Preliminary Analysis}{26}{subsection.3.8.1}%
+\contentsline {subsection}{\numberline {3.8.2}Duverger’s law through the years}{28}{subsection.3.8.2}%
+\contentsline {section}{\numberline {3.9}NFHS Analysis}{29}{section.3.9}%
+\contentsline {subsection}{\numberline {3.9.1}Child Marriage}{29}{subsection.3.9.1}%
+\contentsline {subsection}{\numberline {3.9.2}Literacy}{30}{subsection.3.9.2}%
+\contentsline {subsection}{\numberline {3.9.3}Breastfeeding Practices}{30}{subsection.3.9.3}%
+\contentsline {subsection}{\numberline {3.9.4}Contraceptive Data}{30}{subsection.3.9.4}%
+\contentsline {subsection}{\numberline {3.9.5}Consolidated Ranks}{32}{subsection.3.9.5}%
+\contentsline {section}{\numberline {3.10}Conclusion}{33}{section.3.10}%
+\contentsline {chapter}{\numberline {4} Understanding India's Mountain and Plain Dichotomy}{34}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Introduction}{34}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Can Strategic Voting explain the difference?}{34}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Role of Identity politics in Mountains}{35}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Structural Differences: The Indian Case}{36}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Political Differences: Plains v/s Mountains}{36}{subsection.4.4.1}%

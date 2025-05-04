@@ -3327,6 +3327,36 @@
       \verb https://censusindia.gov.in
       \endverb
     \endentry
+    \entry{oed2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=11452d9f6f198a3aed1a49e39055d8cf}{%
+           family={{Oxford University Press}},
+           familyi={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{11452d9f6f198a3aed1a49e39055d8cf}
+      \strng{fullhash}{11452d9f6f198a3aed1a49e39055d8cf}
+      \strng{fullhashraw}{11452d9f6f198a3aed1a49e39055d8cf}
+      \strng{bibnamehash}{11452d9f6f198a3aed1a49e39055d8cf}
+      \strng{authorbibnamehash}{11452d9f6f198a3aed1a49e39055d8cf}
+      \strng{authornamehash}{11452d9f6f198a3aed1a49e39055d8cf}
+      \strng{authorfullhash}{11452d9f6f198a3aed1a49e39055d8cf}
+      \strng{authorfullhashraw}{11452d9f6f198a3aed1a49e39055d8cf}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Oxford English Dictionary}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.oed.com
+      \endverb
+      \verb{url}
+      \verb https://www.oed.com
+      \endverb
+    \endentry
     \entry{pachauri2014priority}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=30309ba7796021e9d58770c70feb6606}{%
@@ -8019,6 +8049,36 @@
       \endverb
       \verb{url}
       \verb https://censusindia.gov.in
+      \endverb
+    \endentry
+    \entry{oed2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=11452d9f6f198a3aed1a49e39055d8cf}{%
+           family={{Oxford University Press}},
+           familyi={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{11452d9f6f198a3aed1a49e39055d8cf}
+      \strng{fullhash}{11452d9f6f198a3aed1a49e39055d8cf}
+      \strng{fullhashraw}{11452d9f6f198a3aed1a49e39055d8cf}
+      \strng{bibnamehash}{11452d9f6f198a3aed1a49e39055d8cf}
+      \strng{authorbibnamehash}{11452d9f6f198a3aed1a49e39055d8cf}
+      \strng{authornamehash}{11452d9f6f198a3aed1a49e39055d8cf}
+      \strng{authorfullhash}{11452d9f6f198a3aed1a49e39055d8cf}
+      \strng{authorfullhashraw}{11452d9f6f198a3aed1a49e39055d8cf}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Oxford English Dictionary}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.oed.com
+      \endverb
+      \verb{url}
+      \verb https://www.oed.com
       \endverb
     \endentry
     \entry{pachauri2014priority}{article}{}{}
