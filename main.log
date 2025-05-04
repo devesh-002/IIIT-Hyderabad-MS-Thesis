@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.2 (MiKTeX 24.12) (format=lualatex 2025.4.3)  4 MAY 2025 05:55
+This is LuaHBTeX, Version 1.18.2 (MiKTeX 24.12) (format=lualatex 2025.4.3)  4 MAY 2025 06:03
  restricted system commands enabled.
 **main.tex
 (./main.tex
@@ -1066,219 +1066,97 @@ LaTeX Font Warning: Font shape `TU/ptm/m/n' undefined
 
 (./main.aux)
 Runaway argument?
-{ 
+{\con 
 ! File ended while scanning use of \@writefile.
 <inserted text> 
 \par 
 l.63 \begin{document}
                    
 ? 
-
-\openout1 = main.aux
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-(/home/devesh/.miktex/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count533
-\scratchdimen=\dimen265
-\scratchbox=\box81
-\nofMPsegments=\count534
-\nofMParguments=\count535
-\everyMPshowfont=\toks49
-\MPscratchCnt=\count536
-\MPscratchDim=\dimen266
-\MPnumerator=\count537
-\makeMPintoPDFobject=\count538
-\everyMPtoPDFconversion=\toks50
-) (/home/devesh/.miktex/texmfs/install/tex/latex/epstopdf-pkg/epstopdf-base.sty
-Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-85.
-(/home/devesh/.miktex/texmfs/install/tex/latex/00miktex/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
-))
-Package hyperref Info: Link coloring OFF on input line 63.
-
-(./main.out) (./main.out)
-\@outlinefile=\write8
-
-\openout8 = main.out
-
-(/home/devesh/.miktex/texmfs/install/tex/latex/pdflscape/pdflscape.sty
-Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
-
-(/home/devesh/.miktex/texmfs/install/tex/latex/pdflscape/pdflscape-nometadata.s
-ty
-Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PD
-F (HO)
- (/home/devesh/.miktex/texmfs/install/tex/latex/graphics/lscape.sty
-Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
-)
-Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
-))
-(/home/devesh/.miktex/texmfs/install/tex/latex/translations/dicts/translations-
-basic-dictionary-english.trsl
-File: translations-basic-dictionary-english.trsl (english translation file `tra
-nslations-basic-dictionary')
-)
-Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `english'. on input line 63.
-\c@lstlisting=\count539
-Package biblatex Info: Trying to load language 'english' -> 'english-apa'...
-Package biblatex Info: ... file 'english-apa.lbx' found.
-
-(/home/devesh/.miktex/texmfs/install/tex/latex/biblatex-apa/english-apa.lbx
-File: english-apa.lbx 2023/03/20 v9.17 APA biblatex localisation
-Package biblatex Info: Trying to load language 'english'...
-Package biblatex Info: ... file 'english.lbx' found.
-
-(/home/devesh/.miktex/texmfs/install/tex/latex/biblatex/lbx/english.lbx
-File: english.lbx 2024/03/21 v3.20 biblatex localization (PK/MW)
-)
-Package biblatex Info: Trying to load language 'american' -> 'american-apa'...
-Package biblatex Info: ... file 'american-apa.lbx' found.
-
-(/home/devesh/.miktex/texmfs/install/tex/latex/biblatex-apa/american-apa.lbx
-File: american-apa.lbx 2023/03/20 v9.17 APA biblatex localisation
-Package biblatex Info: Trying to load language 'american'...
-Package biblatex Info: ... file 'american.lbx' found.
-
-(/home/devesh/.miktex/texmfs/install/tex/latex/biblatex/lbx/american.lbx
-File: american.lbx 2024/03/21 v3.20 biblatex localization (PK/MW)
-Package biblatex Info: Trying to load language 'english'...
-Package biblatex Info: ... file 'english.lbx' found.
-
-(/home/devesh/.miktex/texmfs/install/tex/latex/biblatex/lbx/english.lbx
-File: english.lbx 2024/03/21 v3.20 biblatex localization (PK/MW)
-))))
-Package biblatex Info: LuaTeX detected.
-(biblatex)             Assuming input encoding 'utf8'.
-Package biblatex Info: Automatic encoding selection.
-(biblatex)             Assuming data encoding 'utf8'.
-
-\openout4 = main.bcf
-Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'main.bbl' found.
-
-(./main.bbl)
-Package biblatex Info: Reference section=0 on input line 63.
-Package biblatex Info: Reference segment=0 on input line 63.
- (./sections/titlePage.tex
-
-LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
-(Font)              using `TU/ptm/m/n' instead on input line 4.
+! Emergency stop.
+<inserted text> 
+\par 
+l.63 \begin{document}
+                   
+End of file on the terminal!
 
 
-LaTeX Font Warning: Font shape `TU/ptm/m/it' undefined
-(Font)              using `TU/ptm/m/n' instead on input line 11.
 
-LaTeX Font Info:    Trying to load font information for TU+pcr on input line 23
-.
-LaTeX Font Info:    No file TUpcr.fd. on input line 23.
-
-LaTeX Font Warning: Font shape `TU/pcr/m/n' undefined
-(Font)              using `TU/lmr/m/n' instead on input line 23.
-
-<figures/iiit.png, id=227, 389.455pt x 200.75pt>
-File: figures/iiit.png Graphic file (type png)
-<use figures/iiit.png>
-Package luatex.def Info: figures/iiit.png  used on input line 30.
-(luatex.def)             Requested size: 142.26378pt x 73.3298pt.
-)
-
-[1
-
-
-\openout5 = main.ist
-
-{/home/devesh/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map}<./figures/iiit.pn
-g>]
-
-[2] (./sections/certificate.tex
-
-LaTeX Font Warning: Font shape `TU/ptm/b/it' undefined
-(Font)              using `TU/ptm/b/n' instead on input line 13.
-
-LaTeX Font Info:    Trying to load font information for U+msa on input line 16.
-
-(/home/devesh/.miktex/texmfs/install/tex/latex/amsfonts/umsa.fd
+Here is how much of LuaTeX's memory you used:
+ 34224 strings out of 475526
+ 125165,1648299 words of node,token memory allocated 717 words of node memory still in use:
+   3 hlist, 1 rule, 1 dir, 3 kern, 1 glyph, 15 attribute, 80 glue_spec, 15 attri
+bute_list, 1 open, 39 write, 1 close, 1 pdf_colorstack nodes
+   avail lists: 2:9,3:1,4:5,7:2,9:3
+ 56738 multiletter control sequences out of 65536+600000
+ 15 fonts using 723751 bytes
+ 77i,0n,78p,2403b,267s stack positions out of 10000i,1000n,20000p,200000b,200000s
+!  ==> Fatal error occurred, no output PDF file produced!
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 msa on input line 16.
+ (/home/devesh/.miktex/texmfs/install/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 16.
-
-
-(/home/devesh/.miktex/texmfs/install/tex/latex/amsfonts/umsb.fd
+ (/home/devesh/.miktex/texmfs/install/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ))
 
-[3] (./sections/par.tex)
+[3] (sections/par.tex)
 
 [4
 
-] (./sections/ack.tex)
+] (sections/ack.tex)
 
 [5
 
-] (./sections/abstract.tex)
+] (sections/abstract.tex)
 
 [6
 
-] (./main.toc
+] (main.toc
 
 [7
 
 ])
 \tf@toc=\write9
-
-\openout9 = main.toc
-
+\openout9 = `main.toc'.
 
 
-LaTeX Font Warning: Font shape `TU/ptm/m/sl' undefined
-(Font)              using `TU/ptm/m/it' instead on input line 94.
 
-[8] (./main.lof)
+[8] (main.lof
+Overfull \hbox (14.62372pt too wide) in paragraph at lines 11--11
+ [][] [][]\OT1/ptm/m/n/10.95 Assembly Elections: Histogram illustrating the distribution of effective parties for mountain 
+ []
+
+)
 \tf@lof=\write10
+\openout10 = `main.lof'.
 
-\openout10 = main.lof
 
 
 [9
 
-] (./main.lot)
+] (main.lot)
 \tf@lot=\write11
+\openout11 = `main.lot'.
 
-\openout11 = main.lot
- (./main.gls)
+ (main.gls)
 
 [10
 
-] (./sections/relatedPapers.tex)
+] (sections/relatedPapers.tex
+Overfull \hbox (3.26936pt too wide) in paragraph at lines 3--4
+[]\OT1/ptm/m/n/10.95 Devesh Marwah, Aniket Alam, \OT1/ptm/b/n/10.95 ``The High and The Low: A Comparative Analysis of Mountain
+ []
+
+)
 
 [11
 
 ]
 {\it Chapter} 1.
-(./sections/ch0.tex
-Underfull \vbox (badness 1789) has occurred while \output is active []
+(sections/ch0.tex
+Underfull \vbox (badness 1596) has occurred while \output is active []
 
 
 
@@ -1287,214 +1165,101 @@ Underfull \vbox (badness 1789) has occurred while \output is active []
 ]
 
 [2]
-Underfull \hbox (badness 1454) in paragraph at lines 30--31
-[]\TU/ptm/b/n/10.95 How do the political systems of mountainous and plain region
-s in India differ
+Underfull \hbox (badness 3492) in paragraph at lines 30--31
+[]\OT1/ptm/b/n/10.95 How do the political systems of mountainous and plain regions in India differ
  []
 
 
-Underfull \hbox (badness 3657) in paragraph at lines 31--32
-[]\TU/ptm/b/n/10.95 How do gender differences in mountainous and plain regions 
-of India differ
+Underfull \hbox (badness 6380) in paragraph at lines 31--32
+[]\OT1/ptm/b/n/10.95 How do gender differences in mountainous and plain regions of India differ
+ []
+
+
+Underfull \hbox (badness 1436) in paragraph at lines 32--33
+[]\OT1/ptm/b/n/10.95 What qualitative theories account for the political and gender expressions between
  []
 
 
 
 [3]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[4]
 
-[5])
 
-[6]
+[4])
+
+[5]
 {\it Chapter} 2.
-(./sections/lit_review.tex
+(sections/lit_review.tex
 
-[7
+[6
 
 ]
+
+[7]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 
 [8]
 
 [9]
 
 [10]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 
 [11]
-Underfull \vbox (badness 2027) has occurred while \output is active []
-
-
 
 [12]
 
 [13]
-Underfull \vbox (badness 2027) has occurred while \output is active []
 
-
-
-[14]
+[14])
 
 [15]
-
-[16])
-
-[17]
 {\it Chapter} 3.
-(./sections/ch1.tex
-Overfull \hbox (0.94385pt too wide) in paragraph at lines 2--3
-\TU/ptm/b/it/10.95 Gangetic plains, and how these differences manifest within th
-e electoral process. We complement
- []
+(sections/ch1.tex
 
-
-
-[18
+[16
 
 ]
-Overfull \hbox (17.20924pt too wide) in paragraph at lines 12--13
-[]\TU/ptm/b/it/10.95 The Congress party system ([]Candland, []1997[][]; Kothari,
- []1967[]) was a massive umbrella organization
+
+[17]
+Overfull \hbox (4.67093pt too wide) in paragraph at lines 37--38
+[]\OT1/ptm/m/n/10.95 The \OT1/ptm/b/n/10.95 household dataset \OT1/ptm/m/n/10.95 provides insights into household composition, living conditions of different
  []
 
 
-Overfull \hbox (8.39212pt too wide) in paragraph at lines 17--18
-[]\TU/ptm/b/it/10.95 Following on these studies, this study will use both Lok Sa
-bha and assembly level constituencies
- []
 
-
-Overfull \hbox (14.1365pt too wide) in paragraph at lines 21--22
-\TU/ptm/b/it/10.95 recommendations of the States Reorganization Commission. The contemporary political geography
- []
-
-
+[18]
 
 [19]
-Overfull \hbox (16.51384pt too wide) in paragraph at lines 25--26
-[]\TU/ptm/b/it/10.95 The Indo-Gangetic Plains encompass several states and terri
-tories: Punjab, Haryana, Rajasthan,
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 
 [20]
 
 [21]
 
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+
 [22]
 
 [23]
-Overfull \hbox (17.69975pt too wide) in paragraph at lines 96--97
-[]\TU/ptm/b/it/10.95 From 1977 to 2019, there are a total of 239 mountain consti
-tuencies and 2911 plain constituencies,
- []
-
-
-LaTeX Warning: Reference `tab:stats_tests' on page 24 undefined on input line 1
-16.
-
-
-LaTeX Warning: Reference `img:histogram' on page 24 undefined on input line 116
-.
-
-
 
 [24]
 
-LaTeX Warning: Reference `tab:disaggregated_across_years' on page 25 undefined 
-on input line 189.
-
-
-LaTeX Warning: Reference `tab:disaggregated_without_manipur' on page 25 undefin
-ed on input line 189.
-
-
-Underfull \vbox (badness 3471) has occurred while \output is active []
-
-
-
 [25]
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: Reference `tab:mountain_percentage_district' on page 26 undefine
-d on input line 238.
-
-
-LaTeX Warning: Reference `tab:plain_percentage_districts' on page 26 undefined 
-on input line 238.
-
-
-LaTeX Warning: Reference `tab:mountain_percentage_district' on page 26 undefine
-d on input line 238.
-
-
-LaTeX Warning: Reference `tab:plain_percentage_districts' on page 26 undefined 
-on input line 238.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-LaTeX Warning: Reference `img:mountain_enp' on page 26 undefined on input line 
-267.
-
-
-LaTeX Warning: Reference `img:plain_enp' on page 26 undefined on input line 267
-.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
 [26]
-
-LaTeX Warning: Reference `tab:state_data' on page 27 undefined on input line 27
-1.
-
-
-LaTeX Warning: Reference `tab:state_data' on page 27 undefined on input line 27
-1.
-
-
-LaTeX Warning: Reference `img:mountain_enp' on page 27 undefined on input line 
-275.
-
-
-LaTeX Warning: Reference `img:plain_enp' on page 27 undefined on input line 275
-.
+Underfull \vbox (badness 4316) has occurred while \output is active []
 
 
 
 [27]
 
-LaTeX Warning: Reference `img:overall_enp' on page 28 undefined on input line 2
-79.
-
-
-Underfull \vbox (badness 3271) has occurred while \output is active []
-
-
-
 [28]
 
-LaTeX Warning: Reference `img:assembly_histogram' on page 29 undefined on input
- line 316.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
+[29]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -1502,459 +1267,178 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-LaTeX Warning: Reference `tab:assembly_mountain_percentage_district' on page 29
- undefined on input line 375.
-
-
-LaTeX Warning: Reference `tab:assembly_plains_percentage_district' on page 29 u
-ndefined on input line 375.
-
-
-
-[29]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
 [30]
 
-LaTeX Warning: Reference `img:assembly_plain_enp' on page 31 undefined on input
- line 377.
-
-
-LaTeX Warning: Reference `img:assembly_mountain_enp' on page 31 undefined on in
-put line 377.
-
-
-LaTeX Warning: Reference `img:assembly_overall_enp' on page 31 undefined on inp
-ut line 382.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
+LaTeX Warning: Text page 31 contains only floats.
 
 
 
 [31]
 
-LaTeX Warning: Reference `tab:child_marriage' on page 32 undefined on input lin
-e 421.
+[32])
 
+[33]
+{\it Chapter} 4.
+(sections/ch2.tex
 
-LaTeX Warning: Reference `tab:combined_literacy_states_diff' on page 32 undefin
-ed on input line 424.
+[34
 
+]
 
-LaTeX Warning: Reference `tab:combined_literacy_states_diff' on page 32 undefin
-ed on input line 424.
+[35]
 
+[36]
 
+[37]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-
-[32]
-
-[33]
-
-LaTeX Warning: Reference `tab:breastmilk_rank' on page 34 undefined on input li
-ne 491.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-LaTeX Warning: Reference `tab:contraceptive_data' on page 34 undefined on input
- line 523.
-
-
-
-[34]
-
-LaTeX Warning: Reference `tab:consolidated_ranks' on page 35 undefined on input
- line 526.
-
-
-LaTeX Warning: Reference `ranking_methodology' on page 35 undefined on input li
-ne 526.
-
-
-Overfull \hbox (11.89395pt too wide) in paragraph at lines 526--556
-[]\TU/ptm/b/it/10.95 The table [] is made from the final rankings of the paramet
-ers described above and methodology
- []
-
-
-
-[35])
-
-[36]
-{\it Chapter} 4.
-(./sections/ch2.tex
-
-[37
-
-]
 
 [38]
 
 [39]
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-
-[40]
-Underfull \vbox (badness 4328) has occurred while \output is active []
-
-
+[40])
 
 [41]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[42]
-Underfull \vbox (badness 2781) has occurred while \output is active []
-
-
-
-[43]
-
-[44])
-
-[45]
 {\it Chapter} 5.
-(./sections/conclusion.tex
-Underfull \vbox (badness 6641) has occurred while \output is active []
+(sections/conclusion.tex
+Underfull \vbox (badness 6125) has occurred while \output is active []
 
 
 
-[46
+[42
 
 ]
+Underfull \vbox (badness 4913) has occurred while \output is active []
+
+
+
+[43])
+
+[44]
+
+[45
+
+]
+Overfull \hbox (15.77054pt too wide) in paragraph at lines 133--133
+[][]\OT1/ptm/m/n/10.95 Chima, J., & Saikia, P. (2023). \OT1/ptm/m/it/10.95 Insurgency in india's northeast: Identity formation, postcolonial nation/state-
+ []
+
+
+Overfull \hbox (8.22614pt too wide) in paragraph at lines 133--133
+[][]\OT1/ptm/m/n/10.95 Cox, G. W. (1997). \OT1/ptm/m/it/10.95 Making votes count: Strategic coordination in the world's electoral systems\OT1/ptm/m/n/10.95 . cambridge
+ []
+
+
+
+[46]
 
 [47]
-Underfull \hbox (badness 1590) in paragraph at lines 20--21
-\TU/ptm/b/it/10.95 need specialized governmental response while the nation follo
-ws its development and
+Overfull \hbox (14.0868pt too wide) in paragraph at lines 133--133
+[][]\OT1/ptm/m/n/10.95 Jaffrelot, C., & Verniers, G. (2020). The bjp's 2019 election campaign: Not business as usual. \OT1/ptm/m/it/10.95 Contemporary
  []
 
-)
+
 
 [48]
-Overfull \hbox (16.55739pt too wide) in paragraph at lines 133--133
-[][]\TU/ptm/b/it/10.95 Ali, S. S., & Rehman, J. (2013). Indigenous peoples and 
-ethnic minorities of pakistan: Constitutional
+Overfull \hbox (3.05174pt too wide) in paragraph at lines 133--133
+[][]\OT1/ptm/m/n/10.95 Mishra, S. (2000). \OT1/ptm/m/it/10.95 The politics of state formation in india: The case of uttarakhand \OT1/ptm/m/n/10.95 [Doctoral dissertation,
  []
 
 
-Overfull \hbox (7.77438pt too wide) in paragraph at lines 133--133
-[][]\TU/ptm/b/it/10.95 Bol, D., & Verthe, T. (2019). Strategic voting versus sin
-cere voting. Oxford Research Encyclopedia
+Package biblatex Warning: No driver for 'case'.
+(biblatex)                Using fallback driver on input line 132.
+
+
+Overfull \hbox (5.06383pt too wide) in paragraph at lines 133--133
+[][]\OT1/ptm/m/n/10.95 Office of the Registrar General and Census Commissioner, India. (1991). Census of india 1991 [Accessed:
+ []
+
+
+Overfull \hbox (5.06383pt too wide) in paragraph at lines 133--133
+[][]\OT1/ptm/m/n/10.95 Office of the Registrar General and Census Commissioner, India. (2001). Census of india 2001 [Accessed:
+ []
+
+
+Overfull \hbox (5.06383pt too wide) in paragraph at lines 133--133
+[][]\OT1/ptm/m/n/10.95 Office of the Registrar General and Census Commissioner, India. (2011). Census of india 2011 [Accessed:
+ []
+
+
+Overfull \hbox (0.44698pt too wide) in paragraph at lines 133--133
+[][]\OT1/ptm/m/n/10.95 Pachauri, S. (2014). Priority strategies for india's family planning programme. \OT1/ptm/m/it/10.95 Indian Journal of Medical
+ []
+
+
+Overfull \hbox (8.7417pt too wide) in paragraph at lines 133--133
+[][]\OT1/ptm/m/n/10.95 Padhiari, H. K., & Ballabh, V. (2008). Inter-state water disputes and the governance challenge. \OT1/ptm/m/it/10.95 Governance
  []
 
 
 
-[49
+[49]
 
-]
-Overfull \hbox (1.15207pt too wide) in paragraph at lines 133--133
-[][]\TU/ptm/b/it/10.95 Clough, E. (2007). Strategic voting under conditions of 
-uncertainty: A re-evaluation of duverger’s
+Package biblatex Warning: No driver for 'case'.
+(biblatex)                Using fallback driver on input line 132.
+
+
+Overfull \hbox (0.31871pt too wide) in paragraph at lines 133--133
+[][]\OT1/ptm/m/n/10.95 Rajasekhar, D., & Srinivasacharyulu, A. (2016). Women representation in politics: A study of panchayati
  []
 
 
 
 [50]
-Overfull \hbox (5.87643pt too wide) in paragraph at lines 133--133
-[][]\TU/ptm/b/it/10.95 Gallagher, M. (1991). Proportionality, disproportionality
- and electoral systems. Electoral Studies,
+Overfull \hbox (116.11128pt too wide) in paragraph at lines 133--133
+[][]\OT1/ptm/m/n/10.95 van Geffen, A. (2023). Gdldata: Global data lab r api [https://docs.globaldatalab.org/gdldata/, https://github.com/GlobalDataLab/R-
+ []
+
+
+Overfull \hbox (1.66425pt too wide) in paragraph at lines 133--133
+[][]\OT1/ptm/m/n/10.95 Van Schendel, W. (2005). Geographies of knowing, geographies of ignorance: Jumping scale in southeast
  []
 
 
 
 [51]
-Overfull \hbox (3.11578pt too wide) in paragraph at lines 133--133
-[][]\TU/ptm/b/it/10.95 Guyot-Rechard, B. (2017). Shadow states: India, china and
- the himalayas, 1910--1962. Cambridge
- []
-
-
-Overfull \hbox (17.89334pt too wide) in paragraph at lines 133--133
-[][]\TU/ptm/b/it/10.95 Horgan, J. G. (2008). Leaving terrorism behind: Individua
-l and collective disengagement. Routledge. 
- []
-
-
-Overfull \hbox (0.46349pt too wide) in paragraph at lines 133--133
-\TU/ptm/b/it/10.95 pakistan. Yale University Press. []$https : / / books . googl
-e . co . in / books ? id = zO - 5BwAAQBAJ$[] 
- []
-
-
-
-[52]
-Overfull \hbox (6.67087pt too wide) in paragraph at lines 133--133
-[][]\TU/ptm/b/it/10.95 Moore, N. (2011). Eco/feminism and rewriting the ending 
-of feminism: From the chipko movement
- []
-
-
-Overfull \hbox (7.96777pt too wide) in paragraph at lines 133--133
-[][]\TU/ptm/b/it/10.95 Moosvi, S. (1973). Production, consumption and population
- in akbar’s time. The Indian Economic
- []
-
-
-Package biblatex Warning: No driver for 'case'.
-(biblatex)                Using fallback driver on input line 132.
-
-
-
-[53]
-
-Package biblatex Warning: No driver for 'case'.
-(biblatex)                Using fallback driver on input line 132.
-
-
-
-[54]
-Overfull \hbox (6.93727pt too wide) in paragraph at lines 133--133
-[][]\TU/ptm/b/it/10.95 Walker, A. (1999). The legend of the golden boat: Regulat
-ion, trade and traders in the borderlands
- []
-
-
-
-[55]
-
-[56]
 {\it Chapter} 6.
-(./sections/appendix.tex
-<figures/lok/histogram.pdf, id=1059, 1076.823pt x 426.393pt>
+(sections/appendix.tex
+<figures/lok/histogram.pdf, id=1025, 1076.82304pt x 426.39299pt>
 File: figures/lok/histogram.pdf Graphic file (type pdf)
 <use figures/lok/histogram.pdf>
-Package luatex.def Info: figures/lok/histogram.pdf  used on input line 4.
-(luatex.def)             Requested size: 406.51599pt x 160.9705pt.
-<figures/lok/mountain_states.pdf, id=1060, 1032.37695pt x 1012.5027pt>
+Package pdftex.def Info: figures/lok/histogram.pdf  used on input line 4.
+(pdftex.def)             Requested size: 406.51599pt x 160.97049pt.
+<figures/lok/mountain_states.pdf, id=1026, 1032.37697pt x 1012.50267pt>
 File: figures/lok/mountain_states.pdf Graphic file (type pdf)
 <use figures/lok/mountain_states.pdf>
-Package luatex.def Info: figures/lok/mountain_states.pdf  used on input line 11
-.
-(luatex.def)             Requested size: 406.51599pt x 398.69049pt.
-<figures/lok/plains_states.pdf, id=1061, 1032.37695pt x 1012.5027pt>
+Package pdftex.def Info: figures/lok/mountain_states.pdf  used on input line 11.
+(pdftex.def)             Requested size: 406.51599pt x 398.69049pt.
+<figures/lok/plains_states.pdf, id=1027, 1032.37697pt x 1012.50267pt>
 File: figures/lok/plains_states.pdf Graphic file (type pdf)
 <use figures/lok/plains_states.pdf>
-Package luatex.def Info: figures/lok/plains_states.pdf  used on input line 18.
-(luatex.def)             Requested size: 406.51599pt x 398.69049pt.
-<figures/lok/final.pdf, id=1062, 916.92563pt x 904.91074pt>
+Package pdftex.def Info: figures/lok/plains_states.pdf  used on input line 18.
+(pdftex.def)             Requested size: 406.51599pt x 398.69049pt.
+<figures/lok/final.pdf, id=1028, 916.92563pt x 904.91077pt>
 File: figures/lok/final.pdf Graphic file (type pdf)
 <use figures/lok/final.pdf>
-Package luatex.def Info: figures/lok/final.pdf  used on input line 25.
-(luatex.def)             Requested size: 406.51599pt x 401.18587pt.
-<figures/assembly/histogram.pdf, id=1063, 1076.823pt x 426.393pt>
+Package pdftex.def Info: figures/lok/final.pdf  used on input line 25.
+(pdftex.def)             Requested size: 406.51599pt x 401.18588pt.
+<figures/assembly/histogram.pdf, id=1029, 1076.82304pt x 426.39299pt>
 File: figures/assembly/histogram.pdf Graphic file (type pdf)
 <use figures/assembly/histogram.pdf>
-Package luatex.def Info: figures/assembly/histogram.pdf  used on input line 33.
-
-(luatex.def)             Requested size: 406.51599pt x 160.9705pt.
-<figures/assembly/assembly_elections_mountain_states.pdf, id=1064, 1044.3015pt 
-x 1015.03215pt>
-File: figures/assembly/assembly_elections_mountain_states.pdf Graphic file (typ
-e pdf)
+Package pdftex.def Info: figures/assembly/histogram.pdf  used on input line 33.
+(pdftex.def)             Requested size: 406.51599pt x 160.97049pt.
+<figures/assembly/assembly_elections_mountain_states.pdf, id=1030, 1044.30153pt x 1015.03214pt>
+File: figures/assembly/assembly_elections_mountain_states.pdf Graphic file (type pdf)
 <use figures/assembly/assembly_elections_mountain_states.pdf>
-Package luatex.def Info: figures/assembly/assembly_elections_mountain_states.pd
-f  used on input line 40.
-(luatex.def)             Requested size: 406.51599pt x 395.11752pt.
-<figures/assembly/assembly_elections_plains_states.pdf, id=1065, 1044.3015pt x 
-1015.03215pt>
-File: figures/assembly/assembly_elections_plains_states.pdf Graphic file (type 
-pdf)
+Package pdftex.def Info: figures/assembly/assembly_elections_mountain_states.pdf  used on input line 40.
+(pdftex.def)             Requested size: 406.51599pt x 395.11751pt.
+<figures/assembly/assembly_elections_plains_states.pdf, id=1031, 1044.30153pt x 1015.03214pt>
+File: figures/assembly/assembly_elections_plains_states.pdf Graphic file (type pdf)
 <use figures/assembly/assembly_elections_plains_states.pdf>
-Package luatex.def Info: figures/assembly/assembly_elections_plains_states.pdf 
- used on input line 47.
-(luatex.def)             Requested size: 406.51599pt x 395.11752pt.
-<figures/assembly/assembly_final_adjusted.pdf, id=1066, 920.53912pt x 904.91074
-pt>
-File: figures/assembly/assembly_final_adjusted.pdf Graphic file (type pdf)
-<use figures/assembly/assembly_final_adjusted.pdf>
-Package luatex.def Info: figures/assembly/assembly_final_adjusted.pdf  used on 
-input line 54.
-(luatex.def)             Requested size: 406.51599pt x 399.61177pt.
-<figures/nfhs/mountainous_states_marriage_subplots.pdf, id=1067, 857.8449pt x 1
-109.1036pt>
-File: figures/nfhs/mountainous_states_marriage_subplots.pdf Graphic file (type 
-pdf)
-<use figures/nfhs/mountainous_states_marriage_subplots.pdf>
-Package luatex.def Info: figures/nfhs/mountainous_states_marriage_subplots.pdf 
- used on input line 64.
-(luatex.def)             Requested size: 406.51599pt x 525.59427pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[57
-
-<./figures/lok/histogram.pdf>]
-
-[58<./figures/lok/mountain_states.pdf>]
-
-[59<./figures/lok/plains_states.pdf>]
-
-[60<./figures/lok/final.pdf>]
-Overfull \vbox (141.71597pt too high) has occurred while \output is active []
-
-
-
-[61<./figures/assembly/histogram.pdf><./figures/nfhs/mountainous_states_marriage
-_subplots.pdf>]
-
-[62<./figures/assembly/assembly_elections_mountain_states.pdf>]
-
-[63<./figures/assembly/assembly_elections_plains_states.pdf>]
-
-[64<./figures/assembly/assembly_final_adjusted.pdf>]
-<figures/nfhs/plain_states_literacy_subplots.pdf, id=1137, 858.0858pt x 1109.10
-36pt>
-File: figures/nfhs/plain_states_literacy_subplots.pdf Graphic file (type pdf)
-<use figures/nfhs/plain_states_literacy_subplots.pdf>
-Package luatex.def Info: figures/nfhs/plain_states_literacy_subplots.pdf  used 
-on input line 71.
-(luatex.def)             Requested size: 406.51599pt x 525.44196pt.
-<figures/nfhs/mountainous_states_literacy_subplots.pdf, id=1138, 858.0858pt x 1
-109.1036pt>
-File: figures/nfhs/mountainous_states_literacy_subplots.pdf Graphic file (type 
-pdf)
-<use figures/nfhs/mountainous_states_literacy_subplots.pdf>
-Package luatex.def Info: figures/nfhs/mountainous_states_literacy_subplots.pdf 
- used on input line 78.
-(luatex.def)             Requested size: 406.51599pt x 525.44196pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[65<./figures/nfhs/plain_states_literacy_subplots.pdf>]
-<figures/nfhs/plain_states_contraceptive_subplots.pdf, id=1147, 857.8449pt x 11
-09.1036pt>
-File: figures/nfhs/plain_states_contraceptive_subplots.pdf Graphic file (type p
-df)
-<use figures/nfhs/plain_states_contraceptive_subplots.pdf>
-Package luatex.def Info: figures/nfhs/plain_states_contraceptive_subplots.pdf  
-used on input line 85.
-(luatex.def)             Requested size: 406.51599pt x 525.59427pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[66<./figures/nfhs/mountainous_states_literacy_subplots.pdf>]
-<figures/nfhs/mountainous_states_contraceptive_subplots.pdf, id=1156, 857.8449p
-t x 1109.1036pt>
-File: figures/nfhs/mountainous_states_contraceptive_subplots.pdf Graphic file (
-type pdf)
-<use figures/nfhs/mountainous_states_contraceptive_subplots.pdf>
-Package luatex.def Info: figures/nfhs/mountainous_states_contraceptive_subplots
-.pdf  used on input line 92.
-(luatex.def)             Requested size: 406.51599pt x 525.59427pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[67<./figures/nfhs/plain_states_contraceptive_subplots.pdf>]
-<figures/nfhs/plain_states_breast_milk_subplots.pdf, id=1165, 857.8449pt x 1109
-.1036pt>
-File: figures/nfhs/plain_states_breast_milk_subplots.pdf Graphic file (type pdf
-)
-<use figures/nfhs/plain_states_breast_milk_subplots.pdf>
-Package luatex.def Info: figures/nfhs/plain_states_breast_milk_subplots.pdf  us
-ed on input line 99.
-(luatex.def)             Requested size: 406.51599pt x 525.59427pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[68<./figures/nfhs/mountainous_states_contraceptive_subplots.pdf>]
-<figures/nfhs/mountainous_states_breast_milk_subplots.pdf, id=1174, 857.8449pt 
-x 1109.1036pt>
-File: figures/nfhs/mountainous_states_breast_milk_subplots.pdf Graphic file (ty
-pe pdf)
-<use figures/nfhs/mountainous_states_breast_milk_subplots.pdf>
-Package luatex.def Info: figures/nfhs/mountainous_states_breast_milk_subplots.p
-df  used on input line 106.
-(luatex.def)             Requested size: 406.51599pt x 525.59427pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[69<./figures/nfhs/plain_states_breast_milk_subplots.pdf>]
-<figures/nfhs/plain_states_marriage_subplots.pdf, id=1183, 857.8449pt x 1109.10
-36pt>
-File: figures/nfhs/plain_states_marriage_subplots.pdf Graphic file (type pdf)
-<use figures/nfhs/plain_states_marriage_subplots.pdf>
-Package luatex.def Info: figures/nfhs/plain_states_marriage_subplots.pdf  used 
-on input line 113.
-(luatex.def)             Requested size: 406.51599pt x 525.59427pt.
-)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[70<./figures/nfhs/mountainous_states_breast_milk_subplots.pdf>]
-
-[71<./figures/nfhs/plain_states_marriage_subplots.pdf>] (./main.aux)
- ***********
-LaTeX2e <2024-11-01> patch level 2
-L3 programming layer <2025-01-18>
- ***********
-
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: A492B79A53DDEFE1FFE87C90FF9B8A36;9085.
-
-Package biblatex Warning: Please rerun LaTeX.
-(biblatex)                Page breaks have changed.
-
-Package logreq Info: Writing requests to 'main.run.xml'.
-
-\openout1 = main.run.xml
-)
-
-Here is how much of LuaTeX's memory you used:
- 37754 strings out of 475526
- 125165,3417909 words of node,token memory allocated
- 929 words of node memory still in use:
-   6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 40 attribute, 79 glue_spec
-, 40 attribute_list, 1 write, 29 pdf_action nodes
-   avail lists: 1:1,2:2684,3:495,4:151,5:658,6:151,7:11535,8:188,9:1984,10:20,11
-:31
- 59694 multiletter control sequences out of 65536+600000
- 37 fonts using 2369551 bytes
- 77i,12n,101p,3797b,5186s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</home/devesh/.miktex/texmfs/install/fonts/opentype/public/lm/lmroman8-regular.o
-tf></home/devesh/.miktex/texmfs/install/fonts/opentype/public/lm/lmroman10-regul
-ar.otf></home/devesh/.miktex/texmfs/install/fonts/opentype/public/lm/lmroman12-r
-egular.otf></home/devesh/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/c
-mex10.pfb></home/devesh/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cm
-mi10.pfb></home/devesh/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmm
-i8.pfb></home/devesh/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10
-.pfb></home/devesh/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr8.pf
-b></home/devesh/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb
-></home/devesh/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on main.pdf (82 pages, 27451379 bytes).
-
-PDF statistics: 1256 PDF objects out of 1440 (max. 8388607)
- 322 named destinations out of 1000 (max. 131072)
- 449 words of extra memory for PDF output out of 10000 (max. 100000000)
-
+Package pdftex.def Info: figures/assembly/assembly_elections_plai
