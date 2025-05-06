@@ -1,0 +1,31 @@
+[0] Config.pm:308> INFO - This is Biber 2.20
+[0] Config.pm:311> INFO - Logfile is 'main.blg'
+[44] biber:340> INFO - === Tue May  6, 2025, 03:47:58
+[54] Biber.pm:420> INFO - Reading 'main.bcf'
+[112] Biber.pm:994> INFO - Found 137 citekeys in bib section 0
+[122] Biber.pm:4463> INFO - Processing section 0
+[129] Biber.pm:4654> INFO - Looking for bibtex file 'cite.bib' for section 0
+[132] bibtex.pm:1713> INFO - LaTeX decoding ...
+[203] bibtex.pm:1519> INFO - Found BibTeX data source 'cite.bib'
+[654] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[654] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[654] Biber.pm:4283> INFO - Sorting list 'apa/apasortcite//global/global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[654] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
+[801] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[801] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[801] Biber.pm:4283> INFO - Sorting list 'apa/global//global/global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[801] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
+[876] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[938] bbl.pm:779> INFO - Output to main.bbl
+[938] Biber.pm:131> WARN - Duplicate entry key: 'murton2013himalayan' in file 'cite.bib', skipping ...
+[938] Biber.pm:131> WARN - Duplicate entry key: 'arora2012politics' in file 'cite.bib', skipping ...
+[938] Biber.pm:131> WARN - Duplicate entry key: 'cox1997making' in file 'cite.bib', skipping ...
+[938] Biber.pm:131> WARN - legacy month field 'Jun' in entry 'Hammes2017' is not an integer - this will probably not sort properly.
+[938] Biber.pm:131> WARN - legacy month field 'Nov' in entry 'Guha2011article' is not an integer - this will probably not sort properly.
+[938] Biber.pm:131> WARN - legacy month field 'Sep' in entry 'Hutchinson_2022' is not an integer - this will probably not sort properly.
+[938] Biber.pm:131> WARN - legacy month field 'Sep' in entry 'Hammond_2011' is not an integer - this will probably not sort properly.
+[938] Biber.pm:131> WARN - legacy month field 'Jan' in entry 'Allen_2012' is not an integer - this will probably not sort properly.
+[938] Biber.pm:131> WARN - legacy month field 'Sep' in entry 'Du_2015' is not an integer - this will probably not sort properly.
+[938] Biber.pm:131> WARN - legacy month field 'Jan' in entry 'TheGuardian2011' is not an integer - this will probably not sort properly.
+[938] Biber.pm:131> WARN - legacy month field 'Sep' in entry 'StateEffectiveness2020' is not an integer - this will probably not sort properly.
+[938] Biber.pm:133> INFO - WARNINGS: 11

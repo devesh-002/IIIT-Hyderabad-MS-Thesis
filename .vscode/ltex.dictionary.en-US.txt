@@ -1,6 +1,6 @@
 Duverger
 Zomia
-hierarichal
+hierarchical
 Indo-Gangetic
 Gangetic
 Gangetic

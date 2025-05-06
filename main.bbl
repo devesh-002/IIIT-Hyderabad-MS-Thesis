@@ -93,7 +93,7 @@
       \field{isbn}{9788175965645}
       \field{series}{Culture and environment of South Asia}
       \field{title}{Becoming India: Western Himalaya Under British Rule}
-      \field{year}{2008}
+      \field{year}{2007}
       \verb{urlraw}
       \verb https://books.google.co.in/books?id=gYQMAQAAMAAJ
       \endverb
@@ -397,6 +397,37 @@
       \field{pages}{115\bibrangedash 136}
       \range{pages}{22}
     \endentry
+    \entry{arnold1982rebellious}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=14486f0f1086219278b3dc561fc8f8c7}{%
+           family={Arnold},
+           familyi={A\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{14486f0f1086219278b3dc561fc8f8c7}
+      \strng{fullhash}{14486f0f1086219278b3dc561fc8f8c7}
+      \strng{fullhashraw}{14486f0f1086219278b3dc561fc8f8c7}
+      \strng{bibnamehash}{14486f0f1086219278b3dc561fc8f8c7}
+      \strng{authorbibnamehash}{14486f0f1086219278b3dc561fc8f8c7}
+      \strng{authornamehash}{14486f0f1086219278b3dc561fc8f8c7}
+      \strng{authorfullhash}{14486f0f1086219278b3dc561fc8f8c7}
+      \strng{authorfullhashraw}{14486f0f1086219278b3dc561fc8f8c7}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Subaltern studies}
+      \field{title}{Rebellious Hillmen: The Gudem-Rampa Risings 1839--1924}
+      \field{volume}{1}
+      \field{year}{1982}
+      \field{pages}{88\bibrangedash 142}
+      \range{pages}{55}
+    \endentry
     \entry{arora2012politics}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=31ca45fd10870782ab1e52b1b4d99a85}{%
@@ -648,44 +679,6 @@
       \field{pages}{149\bibrangedash 172}
       \range{pages}{24}
     \endentry
-    \entry{Bureau_2024}{misc}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=8c84330feaf20cb54714b7296674dd5f}{%
-           family={Bureau},
-           familyi={B\bibinitperiod},
-           given={The\bibnamedelima Hindu},
-           giveni={T\bibinitperiod\bibinitdelim H\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {The Hindu}%
-      }
-      \strng{namehash}{8c84330feaf20cb54714b7296674dd5f}
-      \strng{fullhash}{8c84330feaf20cb54714b7296674dd5f}
-      \strng{fullhashraw}{8c84330feaf20cb54714b7296674dd5f}
-      \strng{bibnamehash}{8c84330feaf20cb54714b7296674dd5f}
-      \strng{authorbibnamehash}{8c84330feaf20cb54714b7296674dd5f}
-      \strng{authornamehash}{8c84330feaf20cb54714b7296674dd5f}
-      \strng{authorfullhash}{8c84330feaf20cb54714b7296674dd5f}
-      \strng{authorfullhashraw}{8c84330feaf20cb54714b7296674dd5f}
-      \field{sortinit}{B}
-      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{The Hindu}
-      \field{month}{9}
-      \field{title}{Government sanctions 31,000 crore to fence Myanmar border}
-      \field{year}{2024}
-      \verb{urlraw}
-      \verb https://www.thehindu.com/news/national/government-sanctions-31000-crore-to-fence-myanmar-border/article68655939.ece
-      \endverb
-      \verb{url}
-      \verb https://www.thehindu.com/news/national/government-sanctions-31000-crore-to-fence-myanmar-border/article68655939.ece
-      \endverb
-    \endentry
     \entry{candland1997congress}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=af92348741dad3e8030d45826a3774c7}{%
@@ -718,6 +711,41 @@
       \field{year}{1997}
       \field{pages}{19\bibrangedash 35}
       \range{pages}{17}
+    \endentry
+    \entry{cederlof2002narratives}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8a5cd93252178f7f5750ae6a8bdeb61c}{%
+           family={Cederlöf},
+           familyi={C\bibinitperiod},
+           given={Gunnel},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {White horse press}%
+      }
+      \strng{namehash}{8a5cd93252178f7f5750ae6a8bdeb61c}
+      \strng{fullhash}{8a5cd93252178f7f5750ae6a8bdeb61c}
+      \strng{fullhashraw}{8a5cd93252178f7f5750ae6a8bdeb61c}
+      \strng{bibnamehash}{8a5cd93252178f7f5750ae6a8bdeb61c}
+      \strng{authorbibnamehash}{8a5cd93252178f7f5750ae6a8bdeb61c}
+      \strng{authornamehash}{8a5cd93252178f7f5750ae6a8bdeb61c}
+      \strng{authorfullhash}{8a5cd93252178f7f5750ae6a8bdeb61c}
+      \strng{authorfullhashraw}{8a5cd93252178f7f5750ae6a8bdeb61c}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Environment and History}
+      \field{number}{3}
+      \field{title}{Narratives of rights: Codifying people and land in early nineteenth-century Nilgiris}
+      \field{volume}{8}
+      \field{year}{2002}
+      \field{pages}{319\bibrangedash 362}
+      \range{pages}{44}
     \endentry
     \entry{chauhan2004bipolar}{article}{}{}
       \name{author}{2}{}{%
@@ -1942,7 +1970,6 @@
       \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Economic and Political Weekly}
@@ -1950,6 +1977,38 @@
       \field{year}{1985}
       \field{pages}{1185\bibrangedash 1190}
       \range{pages}{6}
+    \endentry
+    \entry{gupta2013allegiance}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=8e37356eee7ddc09ff577ec2da63dc34}{%
+           family={Gupta},
+           familyi={G\bibinitperiod},
+           given={Radhika},
+           giveni={R\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{publisher}{1}{%
+        {Duke University Press}%
+      }
+      \strng{namehash}{8e37356eee7ddc09ff577ec2da63dc34}
+      \strng{fullhash}{8e37356eee7ddc09ff577ec2da63dc34}
+      \strng{fullhashraw}{8e37356eee7ddc09ff577ec2da63dc34}
+      \strng{bibnamehash}{8e37356eee7ddc09ff577ec2da63dc34}
+      \strng{authorbibnamehash}{8e37356eee7ddc09ff577ec2da63dc34}
+      \strng{authornamehash}{8e37356eee7ddc09ff577ec2da63dc34}
+      \strng{authorfullhash}{8e37356eee7ddc09ff577ec2da63dc34}
+      \strng{authorfullhashraw}{8e37356eee7ddc09ff577ec2da63dc34}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Borderland lives in northern South Asia}
+      \field{title}{Allegiance and alienation: border dynamics in Kargil}
+      \field{year}{2013}
+      \field{pages}{47\bibrangedash 71}
+      \range{pages}{25}
     \endentry
     \entry{guyot2017shadow}{book}{}{}
       \name{author}{1}{}{%
@@ -2843,6 +2902,40 @@
       \field{pages}{1\bibrangedash 13}
       \range{pages}{13}
     \endentry
+    \entry{mathur2013naturalising}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c8ecd4a8e757d6a3c48613962652c0c0}{%
+           family={Mathur},
+           familyi={M\bibinitperiod},
+           given={Nayanika},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Duke University Press}%
+      }
+      \strng{namehash}{c8ecd4a8e757d6a3c48613962652c0c0}
+      \strng{fullhash}{c8ecd4a8e757d6a3c48613962652c0c0}
+      \strng{fullhashraw}{c8ecd4a8e757d6a3c48613962652c0c0}
+      \strng{bibnamehash}{c8ecd4a8e757d6a3c48613962652c0c0}
+      \strng{authorbibnamehash}{c8ecd4a8e757d6a3c48613962652c0c0}
+      \strng{authornamehash}{c8ecd4a8e757d6a3c48613962652c0c0}
+      \strng{authorfullhash}{c8ecd4a8e757d6a3c48613962652c0c0}
+      \strng{authorfullhashraw}{c8ecd4a8e757d6a3c48613962652c0c0}
+      \field{extraname}{1}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Borderland lives in northern South Asia: Non-state perspectives}
+      \field{title}{Naturalising the Himalaya-as-Border in Uttarakhand}
+      \field{year}{2013}
+      \field{pages}{72\bibrangedash 93}
+      \range{pages}{22}
+    \endentry
     \entry{mathur2015remote}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=c8ecd4a8e757d6a3c48613962652c0c0}{%
@@ -2863,6 +2956,7 @@
       \strng{authornamehash}{c8ecd4a8e757d6a3c48613962652c0c0}
       \strng{authorfullhash}{c8ecd4a8e757d6a3c48613962652c0c0}
       \strng{authorfullhashraw}{c8ecd4a8e757d6a3c48613962652c0c0}
+      \field{extraname}{2}
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{extradatescope}{labelyear}
@@ -2947,6 +3041,39 @@
       \field{year}{2017}
       \field{pages}{6\bibrangedash 10}
       \range{pages}{5}
+    \endentry
+    \entry{mishra2013developing}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=4a4131181ba1aa0176e604f3172c8efb}{%
+           family={Mishra},
+           familyi={M\bibinitperiod},
+           given={Deepak\bibnamedelima K},
+           giveni={D\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{publisher}{2}{%
+        {Duke University Press Durham}%
+        {London}%
+      }
+      \strng{namehash}{4a4131181ba1aa0176e604f3172c8efb}
+      \strng{fullhash}{4a4131181ba1aa0176e604f3172c8efb}
+      \strng{fullhashraw}{4a4131181ba1aa0176e604f3172c8efb}
+      \strng{bibnamehash}{4a4131181ba1aa0176e604f3172c8efb}
+      \strng{authorbibnamehash}{4a4131181ba1aa0176e604f3172c8efb}
+      \strng{authornamehash}{4a4131181ba1aa0176e604f3172c8efb}
+      \strng{authorfullhash}{4a4131181ba1aa0176e604f3172c8efb}
+      \strng{authorfullhashraw}{4a4131181ba1aa0176e604f3172c8efb}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Borderland lives in northern South Asia}
+      \field{title}{Developing the border: The state and the political economy of development in Arunachal Pradesh}
+      \field{year}{2013}
+      \field{pages}{141\bibrangedash 162}
+      \range{pages}{22}
     \endentry
     \entry{mishra2018targeting}{article}{}{}
       \name{author}{2}{}{%
@@ -4445,6 +4572,76 @@
       \field{labeltitlesource}{title}
       \field{title}{Duverger's law, its reformulations and the evolution of the Indian party system}
       \field{year}{1997}
+    \endentry
+    \entry{sundar2001debating}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5974db6b9a6df8bc98a915e21f029476}{%
+           family={Sundar},
+           familyi={S\bibinitperiod},
+           given={Nandini},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{5974db6b9a6df8bc98a915e21f029476}
+      \strng{fullhash}{5974db6b9a6df8bc98a915e21f029476}
+      \strng{fullhashraw}{5974db6b9a6df8bc98a915e21f029476}
+      \strng{bibnamehash}{5974db6b9a6df8bc98a915e21f029476}
+      \strng{authorbibnamehash}{5974db6b9a6df8bc98a915e21f029476}
+      \strng{authornamehash}{5974db6b9a6df8bc98a915e21f029476}
+      \strng{authorfullhash}{5974db6b9a6df8bc98a915e21f029476}
+      \strng{authorfullhashraw}{5974db6b9a6df8bc98a915e21f029476}
+      \field{extraname}{1}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the Royal Anthropological Institute}
+      \field{number}{1}
+      \field{title}{Debating dussehra and reinterpreting rebellion in bastar district, central india}
+      \field{volume}{7}
+      \field{year}{2001}
+      \field{pages}{19\bibrangedash 35}
+      \range{pages}{17}
+    \endentry
+    \entry{sundar2005custom}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5974db6b9a6df8bc98a915e21f029476}{%
+           family={Sundar},
+           familyi={S\bibinitperiod},
+           given={Nandini},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {JSTOR}%
+      }
+      \strng{namehash}{5974db6b9a6df8bc98a915e21f029476}
+      \strng{fullhash}{5974db6b9a6df8bc98a915e21f029476}
+      \strng{fullhashraw}{5974db6b9a6df8bc98a915e21f029476}
+      \strng{bibnamehash}{5974db6b9a6df8bc98a915e21f029476}
+      \strng{authorbibnamehash}{5974db6b9a6df8bc98a915e21f029476}
+      \strng{authornamehash}{5974db6b9a6df8bc98a915e21f029476}
+      \strng{authorfullhash}{5974db6b9a6df8bc98a915e21f029476}
+      \strng{authorfullhashraw}{5974db6b9a6df8bc98a915e21f029476}
+      \field{extraname}{2}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Economic and Political Weekly}
+      \field{title}{'Custom'and'Democracy'in Jharkhand}
+      \field{year}{2005}
+      \field{pages}{4430\bibrangedash 4434}
+      \range{pages}{5}
     \endentry
     \entry{taagepera1989seats}{article}{}{}
       \name{author}{2}{}{%
@@ -4817,7 +5014,7 @@
       \field{isbn}{9788175965645}
       \field{series}{Culture and environment of South Asia}
       \field{title}{Becoming India: Western Himalaya Under British Rule}
-      \field{year}{2008}
+      \field{year}{2007}
       \verb{urlraw}
       \verb https://books.google.co.in/books?id=gYQMAQAAMAAJ
       \endverb
@@ -5121,6 +5318,37 @@
       \field{pages}{115\bibrangedash 136}
       \range{pages}{22}
     \endentry
+    \entry{arnold1982rebellious}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=14486f0f1086219278b3dc561fc8f8c7}{%
+           family={Arnold},
+           familyi={A\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{14486f0f1086219278b3dc561fc8f8c7}
+      \strng{fullhash}{14486f0f1086219278b3dc561fc8f8c7}
+      \strng{fullhashraw}{14486f0f1086219278b3dc561fc8f8c7}
+      \strng{bibnamehash}{14486f0f1086219278b3dc561fc8f8c7}
+      \strng{authorbibnamehash}{14486f0f1086219278b3dc561fc8f8c7}
+      \strng{authornamehash}{14486f0f1086219278b3dc561fc8f8c7}
+      \strng{authorfullhash}{14486f0f1086219278b3dc561fc8f8c7}
+      \strng{authorfullhashraw}{14486f0f1086219278b3dc561fc8f8c7}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Subaltern studies}
+      \field{title}{Rebellious Hillmen: The Gudem-Rampa Risings 1839--1924}
+      \field{volume}{1}
+      \field{year}{1982}
+      \field{pages}{88\bibrangedash 142}
+      \range{pages}{55}
+    \endentry
     \entry{arora2012politics}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=31ca45fd10870782ab1e52b1b4d99a85}{%
@@ -5372,44 +5600,6 @@
       \field{pages}{149\bibrangedash 172}
       \range{pages}{24}
     \endentry
-    \entry{Bureau_2024}{misc}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=8c84330feaf20cb54714b7296674dd5f}{%
-           family={Bureau},
-           familyi={B\bibinitperiod},
-           given={The\bibnamedelima Hindu},
-           giveni={T\bibinitperiod\bibinitdelim H\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {The Hindu}%
-      }
-      \strng{namehash}{8c84330feaf20cb54714b7296674dd5f}
-      \strng{fullhash}{8c84330feaf20cb54714b7296674dd5f}
-      \strng{fullhashraw}{8c84330feaf20cb54714b7296674dd5f}
-      \strng{bibnamehash}{8c84330feaf20cb54714b7296674dd5f}
-      \strng{authorbibnamehash}{8c84330feaf20cb54714b7296674dd5f}
-      \strng{authornamehash}{8c84330feaf20cb54714b7296674dd5f}
-      \strng{authorfullhash}{8c84330feaf20cb54714b7296674dd5f}
-      \strng{authorfullhashraw}{8c84330feaf20cb54714b7296674dd5f}
-      \field{sortinit}{B}
-      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{The Hindu}
-      \field{month}{9}
-      \field{title}{Government sanctions 31,000 crore to fence Myanmar border}
-      \field{year}{2024}
-      \verb{urlraw}
-      \verb https://www.thehindu.com/news/national/government-sanctions-31000-crore-to-fence-myanmar-border/article68655939.ece
-      \endverb
-      \verb{url}
-      \verb https://www.thehindu.com/news/national/government-sanctions-31000-crore-to-fence-myanmar-border/article68655939.ece
-      \endverb
-    \endentry
     \entry{candland1997congress}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=af92348741dad3e8030d45826a3774c7}{%
@@ -5442,6 +5632,41 @@
       \field{year}{1997}
       \field{pages}{19\bibrangedash 35}
       \range{pages}{17}
+    \endentry
+    \entry{cederlof2002narratives}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8a5cd93252178f7f5750ae6a8bdeb61c}{%
+           family={Cederlöf},
+           familyi={C\bibinitperiod},
+           given={Gunnel},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {White horse press}%
+      }
+      \strng{namehash}{8a5cd93252178f7f5750ae6a8bdeb61c}
+      \strng{fullhash}{8a5cd93252178f7f5750ae6a8bdeb61c}
+      \strng{fullhashraw}{8a5cd93252178f7f5750ae6a8bdeb61c}
+      \strng{bibnamehash}{8a5cd93252178f7f5750ae6a8bdeb61c}
+      \strng{authorbibnamehash}{8a5cd93252178f7f5750ae6a8bdeb61c}
+      \strng{authornamehash}{8a5cd93252178f7f5750ae6a8bdeb61c}
+      \strng{authorfullhash}{8a5cd93252178f7f5750ae6a8bdeb61c}
+      \strng{authorfullhashraw}{8a5cd93252178f7f5750ae6a8bdeb61c}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Environment and History}
+      \field{number}{3}
+      \field{title}{Narratives of rights: Codifying people and land in early nineteenth-century Nilgiris}
+      \field{volume}{8}
+      \field{year}{2002}
+      \field{pages}{319\bibrangedash 362}
+      \range{pages}{44}
     \endentry
     \entry{chauhan2004bipolar}{article}{}{}
       \name{author}{2}{}{%
@@ -6666,7 +6891,6 @@
       \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Economic and Political Weekly}
@@ -6674,6 +6898,38 @@
       \field{year}{1985}
       \field{pages}{1185\bibrangedash 1190}
       \range{pages}{6}
+    \endentry
+    \entry{gupta2013allegiance}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=8e37356eee7ddc09ff577ec2da63dc34}{%
+           family={Gupta},
+           familyi={G\bibinitperiod},
+           given={Radhika},
+           giveni={R\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{publisher}{1}{%
+        {Duke University Press}%
+      }
+      \strng{namehash}{8e37356eee7ddc09ff577ec2da63dc34}
+      \strng{fullhash}{8e37356eee7ddc09ff577ec2da63dc34}
+      \strng{fullhashraw}{8e37356eee7ddc09ff577ec2da63dc34}
+      \strng{bibnamehash}{8e37356eee7ddc09ff577ec2da63dc34}
+      \strng{authorbibnamehash}{8e37356eee7ddc09ff577ec2da63dc34}
+      \strng{authornamehash}{8e37356eee7ddc09ff577ec2da63dc34}
+      \strng{authorfullhash}{8e37356eee7ddc09ff577ec2da63dc34}
+      \strng{authorfullhashraw}{8e37356eee7ddc09ff577ec2da63dc34}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Borderland lives in northern South Asia}
+      \field{title}{Allegiance and alienation: border dynamics in Kargil}
+      \field{year}{2013}
+      \field{pages}{47\bibrangedash 71}
+      \range{pages}{25}
     \endentry
     \entry{guyot2017shadow}{book}{}{}
       \name{author}{1}{}{%
@@ -7567,6 +7823,40 @@
       \field{pages}{1\bibrangedash 13}
       \range{pages}{13}
     \endentry
+    \entry{mathur2013naturalising}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c8ecd4a8e757d6a3c48613962652c0c0}{%
+           family={Mathur},
+           familyi={M\bibinitperiod},
+           given={Nayanika},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Duke University Press}%
+      }
+      \strng{namehash}{c8ecd4a8e757d6a3c48613962652c0c0}
+      \strng{fullhash}{c8ecd4a8e757d6a3c48613962652c0c0}
+      \strng{fullhashraw}{c8ecd4a8e757d6a3c48613962652c0c0}
+      \strng{bibnamehash}{c8ecd4a8e757d6a3c48613962652c0c0}
+      \strng{authorbibnamehash}{c8ecd4a8e757d6a3c48613962652c0c0}
+      \strng{authornamehash}{c8ecd4a8e757d6a3c48613962652c0c0}
+      \strng{authorfullhash}{c8ecd4a8e757d6a3c48613962652c0c0}
+      \strng{authorfullhashraw}{c8ecd4a8e757d6a3c48613962652c0c0}
+      \field{extraname}{1}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Borderland lives in northern South Asia: Non-state perspectives}
+      \field{title}{Naturalising the Himalaya-as-Border in Uttarakhand}
+      \field{year}{2013}
+      \field{pages}{72\bibrangedash 93}
+      \range{pages}{22}
+    \endentry
     \entry{mathur2015remote}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=c8ecd4a8e757d6a3c48613962652c0c0}{%
@@ -7587,6 +7877,7 @@
       \strng{authornamehash}{c8ecd4a8e757d6a3c48613962652c0c0}
       \strng{authorfullhash}{c8ecd4a8e757d6a3c48613962652c0c0}
       \strng{authorfullhashraw}{c8ecd4a8e757d6a3c48613962652c0c0}
+      \field{extraname}{2}
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{extradatescope}{labelyear}
@@ -7671,6 +7962,39 @@
       \field{year}{2017}
       \field{pages}{6\bibrangedash 10}
       \range{pages}{5}
+    \endentry
+    \entry{mishra2013developing}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=4a4131181ba1aa0176e604f3172c8efb}{%
+           family={Mishra},
+           familyi={M\bibinitperiod},
+           given={Deepak\bibnamedelima K},
+           giveni={D\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{publisher}{2}{%
+        {Duke University Press Durham}%
+        {London}%
+      }
+      \strng{namehash}{4a4131181ba1aa0176e604f3172c8efb}
+      \strng{fullhash}{4a4131181ba1aa0176e604f3172c8efb}
+      \strng{fullhashraw}{4a4131181ba1aa0176e604f3172c8efb}
+      \strng{bibnamehash}{4a4131181ba1aa0176e604f3172c8efb}
+      \strng{authorbibnamehash}{4a4131181ba1aa0176e604f3172c8efb}
+      \strng{authornamehash}{4a4131181ba1aa0176e604f3172c8efb}
+      \strng{authorfullhash}{4a4131181ba1aa0176e604f3172c8efb}
+      \strng{authorfullhashraw}{4a4131181ba1aa0176e604f3172c8efb}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Borderland lives in northern South Asia}
+      \field{title}{Developing the border: The state and the political economy of development in Arunachal Pradesh}
+      \field{year}{2013}
+      \field{pages}{141\bibrangedash 162}
+      \range{pages}{22}
     \endentry
     \entry{mishra2018targeting}{article}{}{}
       \name{author}{2}{}{%
@@ -9169,6 +9493,76 @@
       \field{labeltitlesource}{title}
       \field{title}{Duverger's law, its reformulations and the evolution of the Indian party system}
       \field{year}{1997}
+    \endentry
+    \entry{sundar2001debating}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5974db6b9a6df8bc98a915e21f029476}{%
+           family={Sundar},
+           familyi={S\bibinitperiod},
+           given={Nandini},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{5974db6b9a6df8bc98a915e21f029476}
+      \strng{fullhash}{5974db6b9a6df8bc98a915e21f029476}
+      \strng{fullhashraw}{5974db6b9a6df8bc98a915e21f029476}
+      \strng{bibnamehash}{5974db6b9a6df8bc98a915e21f029476}
+      \strng{authorbibnamehash}{5974db6b9a6df8bc98a915e21f029476}
+      \strng{authornamehash}{5974db6b9a6df8bc98a915e21f029476}
+      \strng{authorfullhash}{5974db6b9a6df8bc98a915e21f029476}
+      \strng{authorfullhashraw}{5974db6b9a6df8bc98a915e21f029476}
+      \field{extraname}{1}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the Royal Anthropological Institute}
+      \field{number}{1}
+      \field{title}{Debating dussehra and reinterpreting rebellion in bastar district, central india}
+      \field{volume}{7}
+      \field{year}{2001}
+      \field{pages}{19\bibrangedash 35}
+      \range{pages}{17}
+    \endentry
+    \entry{sundar2005custom}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5974db6b9a6df8bc98a915e21f029476}{%
+           family={Sundar},
+           familyi={S\bibinitperiod},
+           given={Nandini},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {JSTOR}%
+      }
+      \strng{namehash}{5974db6b9a6df8bc98a915e21f029476}
+      \strng{fullhash}{5974db6b9a6df8bc98a915e21f029476}
+      \strng{fullhashraw}{5974db6b9a6df8bc98a915e21f029476}
+      \strng{bibnamehash}{5974db6b9a6df8bc98a915e21f029476}
+      \strng{authorbibnamehash}{5974db6b9a6df8bc98a915e21f029476}
+      \strng{authornamehash}{5974db6b9a6df8bc98a915e21f029476}
+      \strng{authorfullhash}{5974db6b9a6df8bc98a915e21f029476}
+      \strng{authorfullhashraw}{5974db6b9a6df8bc98a915e21f029476}
+      \field{extraname}{2}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Economic and Political Weekly}
+      \field{title}{'Custom'and'Democracy'in Jharkhand}
+      \field{year}{2005}
+      \field{pages}{4430\bibrangedash 4434}
+      \range{pages}{5}
     \endentry
     \entry{taagepera1989seats}{article}{}{}
       \name{author}{2}{}{%

@@ -46,3 +46,12 @@
 \contentsline {section}{\numberline {4.3}Role of Identity politics in Mountains}{35}{section.4.3}%
 \contentsline {section}{\numberline {4.4}Structural Differences: The Indian Case}{36}{section.4.4}%
 \contentsline {subsection}{\numberline {4.4.1}Political Differences: Plains v/s Mountains}{36}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}Gender Expression: Plains v/s Mountains}{38}{subsection.4.4.2}%
+\contentsline {section}{\numberline {4.5}Case Study of Indian States}{39}{section.4.5}%
+\contentsline {subsection}{\numberline {4.5.1}Himachal Pradesh}{40}{subsection.4.5.1}%
+\contentsline {subsection}{\numberline {4.5.2}Manipur}{40}{subsection.4.5.2}%
+\contentsline {section}{\numberline {4.6}Conclusion}{41}{section.4.6}%
+\contentsline {chapter}{\numberline {5}Conclusion}{43}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Overview}{43}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Limitations and Future Work}{44}{section.5.2}%
+\contentsline {chapter}{\numberline {6}Appendix}{54}{chapter.6}%
