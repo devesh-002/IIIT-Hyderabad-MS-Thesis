@@ -1,10 +1,10 @@
 ## IIIT Thesis Template for CHD Students
-I had to make this template because overleaf was too slow due to me using too many images. 
+Made this template because overleaf was too slow due to use of too many images. 
 
 ### Instructions to run
 bash scripts/run.sh
 
 ### Installation:
-Download miktex on linux, I downloaded other packages too for my convenience.
+Download latexmk on linux as it worked well with overleaf, I downloaded other packages too according to my convenience.
 
 There are some custom scripts for compressing images, pdfs and doing a word count too.
